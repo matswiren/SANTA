@@ -1,0 +1,28 @@
+Aesop
+THE WOLF AND THE LAMB
+
+<plot_element>
+<narrator>
+A stray Lamb stood drinking early one morning on the bank of a woodland stream. That very same morning a hungry Wolf came by farther up the stream, hunting for something to eat. He soon got his eyes on the Lamb. As a rule Mr. Wolf snapped up such delicious morsels without making any bones about it, but this Lamb looked so very helpless and innocent that the Wolf felt he ought to have some kind of an excuse for taking its life.
+<\narrator>
+<characters>
+"How dare _you_ paddle around in my stream and stir up all the mud!" +he+ shouted fiercely. "_You_ deserve to be punished severely for _your_ rashness!" <Wolf--Lamb><PRON--PRON>
+"But, _your_ highness," replied +the trembling Lamb+, "do not be angry! I cannot possibly muddy the water _you_ are drinking up there. Remember, _you_ are upstream and I am downstream." <Lamb--Wolf><DESC_EXP--PRON>
+"_You_ do muddy it!" retorted +the Wolf+ savagely. "And besides, I have heard that _you_ told lies about me last year!" <Wolf--Lamb><EXP--PRON>
+"How could I have done so?" pleaded +the Lamb+. "I wasn't born until this year." <Lamb--Wolf><EXP--IMP>
+"If it wasn't _you_, it was _your_ brother!" <Wolf--Lamb><IMP--PRON>
+"I have no brothers." <Lamb--Wolf><IMP--IMP>
+"Well, then," snarled +the Wolf+, "It was someone in _your_ family anyway. But no matter who it was, I do not intend to be talked out of my breakfast." <Wolf--Lamb><EXP--PRON>
+<\characters>
+<narrator>
+And without more words the Wolf seized the poor Lamb and carried her off to the forest.
+<\narrator>
+<\plot_element>
+<plot_element>
+<author>
+“The tyrant can always find an excuse for his tyranny.
+The unjust will not listen to the reasoning of the innocent.”
+<\author>
+<\plot_element>
+
+http://mythfolklore.net/aesopica/milowinter/45.htm
