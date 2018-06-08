@@ -1,6 +1,7 @@
 from collections import namedtuple
 from operator import attrgetter
 from scipy.stats.stats import pearsonr, spearmanr 
+from os import listdir
 
 sections = ['NARRATOR', 'CHARACTERS', 'AUTHOR', 'PLOT_ELEMENT']
 curr_tags = {'NARRATOR':0, 
@@ -10,21 +11,23 @@ curr_tags = {'NARRATOR':0,
 
 Tag = namedtuple('Tag', 'type start end')
 
-def main(annotator_1, annotator_2):
+def main(annotator_1, annotator_2, k):
     a1_units = read_units(read_file(annotator_1))
     a2_units = read_units(read_file(annotator_2))
 
     a1, a2 = [], []
-    for i, u in enumerate(sorted(filter(lambda x: x.type == 'PLOT_ELEMENT', a1_units), 
-                        key=attrgetter('start'))):
-        a1.append(u.end-u.start)
-        print(f'u{i},Adam,{u.type},,{u.start/10},{u.end/10}')
+    for i, u in enumerate(sorted(filter(lambda x: x.type != 'PLOT_ELEMENT', a1_units), 
+                       key=attrgetter('start'))):
+       a1.append(u.end-u.start)
+       print(f'u{i+k},Adam,{u.type},,{u.start},{u.end}')
     
-    print()
-    for j, u in enumerate(sorted(filter(lambda x: x.type == 'PLOT_ELEMENT', a2_units), 
+    for j, u in enumerate(sorted(filter(lambda x: x.type != 'PLOT_ELEMENT', a2_units), 
                         key=attrgetter('start'))):
         a2.append(u.end-u.start)
-        print(f'u{i+j+1},Anna,{u.type},,{u.start/10},{u.end/10}')
+        print(f'u{i+j+1+k},Anna,{u.type},,{u.start},{u.end}')
+    print()
+
+    return len(a1) + len(a2)
 
 def read_file(filepath):
     with open(filepath) as f:
@@ -36,17 +39,19 @@ def read_units(a_file):
     start_recording = False
     for line in a_file:
         # end of tag
-        if line.startswith('</'):
-            if line[2:-1].islower():
-                line[2:-1].upper()
-            tags.append(Tag(line[2:-1], curr_tags[line[2:-1]], len(continuum)))
-            curr_tags[line[2:-1]] = 0
+        if line.startswith('</') or line.startswith('<\\'):
+            line = line[2:-1]
+            if line.islower():
+                line = line.upper()
+            tags.append(Tag(line, curr_tags[line], len(continuum)))
+            curr_tags[line] = 0
         # start of tag
         elif line.startswith('<'):
-            if line[1:-1].islower():
-                line[1:-1].upper()
+            line = line[1:-1]
+            if line.islower():
+                line = line.upper()
             start_recording = True
-            curr_tags[line[1:-1]] = len(continuum)
+            curr_tags[line] = len(continuum)
         # normal text
         else:
             if not start_recording:
@@ -75,6 +80,10 @@ def visualize_plot(annotations):
 
 
 if __name__ == '__main__':
-    annotator_1 = '/home/adam/data/gamma_iaa_testdata/03_adam.txt'
-    annotator_2 = '/home/adam/data/gamma_iaa_testdata/03_anna.txt'
-    main(annotator_1, annotator_2)
+    foldername1 = '/home/adam/git/SANTA/data/adam/'
+    foldername2 = '/home/adam/git/SANTA/data/anna/'
+
+    k, m = 0, 0
+    for f1, f2 in zip(sorted(listdir(foldername1)), sorted(listdir(foldername2))):
+        print(f1)
+        k += main(foldername1+f1, foldername2+f2, k)
