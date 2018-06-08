@@ -1,0 +1,11 @@
+<DOCUMENT>              :   <SECTION>
+<SECTION>               :   <AUTHOR> | <NARRATOR> | <CHARACTER>
+<AUTHOR>                :   body=text
+<NARRATOR>              :   body=text
+<CHARACTER>             :   <DIALOGUE>
+<DIALOGUE>              :   <LINE>
+<LINE>                  :   <SPEAKER> & <ADDRESSEE> & <SPEAKER_INDICATOR> & <ADDRESEE_INDICATOR> & body=text
+<SPEAKER>               :   name=text
+<ADDRESSEE>             :   name=text
+<SPEAKER_INDICATOR>     :   type=text
+<ADDRESEE_INDICATOR>    :   type=text
