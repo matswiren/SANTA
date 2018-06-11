@@ -56,7 +56,7 @@ He turned towards me, and looked into my eyes with two filmy orbs that distilled
 <CHARACTERS>
 "Nitre?" he asked, at length. <Fortunato--Montresor><ANA--IMP>
 "Nitre," I replied. "How long have you had that cough?" <Montresor--Fortunato><ANA--ANA>
-"Ugh! ugh! ugh!—ugh! ugh! ugh!—ugh! ugh! ugh!—ugh! ugh! ugh!—ugh! ugh! ugh!" <Fortunato--Fortunato><IMP--IMP><Hostar, inte riktat till någon.>
+"Ugh! ugh! ugh!—ugh! ugh! ugh!—ugh! ugh! ugh!—ugh! ugh! ugh!—ugh! ugh! ugh!" <Fortunato--Fortunato><IMP--IMP><Hostar,_inte_riktat_till_någon.>
 </CHARACTERS>
 
 <NARRATOR>

@@ -71,8 +71,8 @@ The girl looked across at the hills.‘They’re lovely hills,’ she said. ‘T
 
 <PLOT_ELEMENT>
 <CHARACTER>
-‘Should we have another drink?’ <Girl--Man><IMP--IMP><Oklart om Man--Girl eller Girl--Man>
-‘All right.’ <Man--Girl><IMP--IMP><Oklart om Man--Girl eller Girl--Man>
+‘Should we have another drink?’ <Girl--Man><IMP--IMP><Man--Girl,Girl--Man?>
+‘All right.’ <Man--Girl><IMP--IMP><Man--Girl,Girl--Man?>
 </CHARACTER>
 
 <NARRATOR>
@@ -90,7 +90,7 @@ The girl looked at the ground the table legs rested on.
 </NARRATOR>
 
 <CHARACTER>
-‘I know you wouldn’t mind it, Jig. It’s really not anything. It’s just to let the air in.’ <Man--Girl><IMP--EXP><Girl == Jig???>
+‘I know you wouldn’t mind it, Jig. It’s really not anything. It’s just to let the air in.’ <Man--Girl><IMP--EXP><Girl==Jig???>
 </CHARACTER>
 
 <NARRATOR>
@@ -140,7 +140,7 @@ The girl stood up and walked to the end of the station. Across, on the other sid
 ‘And we could have all this,’ she said. ‘And we could have everything and every day we make it more impossible.’ <Girl--Man><ANA--ANA>
 ‘What did you say?’ <Man--Girl><IMP--IMP>
 ‘I said we could have everything.’ <Girl--Man><IMP--IMP>
-‘We can have everything.’ <Man--Girl><IMP--IMP><??? plural som involverar både talare+addressat = ANA>
+‘We can have everything.’ <Man--Girl><IMP--IMP><???_plural_som_involverar_både_talare+addressat=ANA>
 ‘No, we can’t.’ <Girl--Man><IMP--IMP>
 ‘We can have the whole world.’ <Man--Girl><IMP--IMP>
 ‘No, we can’t.’ <Girl--Man><IMP--IMP>

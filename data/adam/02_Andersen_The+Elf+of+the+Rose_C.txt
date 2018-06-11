@@ -17,7 +17,7 @@ THE ELF OF THE ROSE
 </NARRATOR>
 
 <CHARACTERS>
-    "Now he is gone, and will soon be forgotten," thought the wicked brother; "he will never come back again. He was going on a long journey over mountains and seas; it is easy for a man to lose his life in such a journey. My sister will suppose he is dead; for he cannot come back, and she will not dare to question me about him." <Brother--Brother><EXP-EXP><Skummis, tankar ej tal>
+    "Now he is gone, and will soon be forgotten," thought the wicked brother; "he will never come back again. He was going on a long journey over mountains and seas; it is easy for a man to lose his life in such a journey. My sister will suppose he is dead; for he cannot come back, and she will not dare to question me about him." <Brother--Brother><EXP-EXP><Skummis,_tankar_ej_tal>
 </CHARACTERS>
 
 <NARRATOR>
@@ -38,7 +38,7 @@ THE ELF OF THE ROSE
 <CHARACTERS>
     "I will keep this," said she; and as soon as she had covered the body again with the earth and leaves, she took the head and a little sprig of jasmine that bloomed in the wood, near the spot where he was buried, and carried them home with her. As soon as she was in her room, she took the largest flower-pot she could find, and in this she placed the head of the dead man, covered it up with earth, and planted the twig of jasmine in it. <Lady--Lady><ANA--IMP>
     "Farewell, farewell," whispered the little elf. He could not any longer endure to witness all this agony of grief, he therefore flew away to his own rose in the garden. But the rose was faded; only a few dry leaves still clung to the green hedge behind it. <Elf--Lady><EXP--IMP>
-    "Alas! how soon all that is good and beautiful passes away," sighed the elf. <Elf--Elf><EXP--IMP><Pratar med sig själv>
+    "Alas! how soon all that is good and beautiful passes away," sighed the elf. <Elf--Elf><EXP--IMP><Pratar_med_sig_själv>
 </CHARACTERS>
 </PLOT_ELEMENT>
 

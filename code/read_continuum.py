@@ -12,8 +12,14 @@ curr_tags = {'NARRATOR':0,
 Tag = namedtuple('Tag', 'type start end')
 
 def main(annotator_1, annotator_2, k):
-    a1_units = read_units(read_file(annotator_1))
-    a2_units = read_units(read_file(annotator_2))
+    a1_units, a1_text = read_units(read_file(annotator_1))
+    a2_units, a2_text = read_units(read_file(annotator_2))
+
+    #print(len(a1_text), len(a2_text))
+    #for a, b in zip(a1_text, a2_text):
+    #    print(a,b)
+    #    if ''.join([x for x in a if x.isalpha()]) != ''.join([x for x in b if x.isalpha()]):
+    #        return 1
 
     a1, a2 = [], []
     for i, u in enumerate(sorted(filter(lambda x: x.type != 'PLOT_ELEMENT', a1_units), 
@@ -58,14 +64,14 @@ def read_units(a_file):
                 continue
             continuum += [ x for x in line.split() if '<' not in x ]
 
-    return tags
+    return tags, continuum
 
 def visualize_tags(annotations):
     representation = []
     for u in sorted(annotations, key=attrgetter('start')):
         if u.type[0] == 'P':
             continue
-        for i in range(u.end-u.start):
+        for _ in range(u.end-u.start):
             representation.append(sections.index(u.type))
     return representation
 
@@ -80,10 +86,16 @@ def visualize_plot(annotations):
 
 
 if __name__ == '__main__':
+    
+    
     foldername1 = '/home/adam/git/SANTA/data/adam/'
     foldername2 = '/home/adam/git/SANTA/data/anna/'
 
+    #k = main(foldername1+'02_Andersen_The+Elf+of+the+Rose_C.txt', 
+    #         foldername2+'02_Andersen_The+Elf+of+the+Rose_AK_ADDS2', 0)
+    
     k, m = 0, 0
-    for f1, f2 in zip(sorted(listdir(foldername1)), sorted(listdir(foldername2))):
+    for f1, f2 in zip(sorted(listdir(foldername1)), sorted(listdir(foldername2))):   
         print(f1)
         k += main(foldername1+f1, foldername2+f2, k)
+    

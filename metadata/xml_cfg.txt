@@ -1,3 +1,4 @@
+Version 1.0:
 <DOCUMENT>              :   <SECTION>
 <SECTION>               :   <AUTHOR> | <NARRATOR> | <CHARACTER>
 <AUTHOR>                :   body=text
@@ -9,3 +10,22 @@
 <ADDRESSEE>             :   name=text
 <SPEAKER_INDICATOR>     :   type=text
 <ADDRESEE_INDICATOR>    :   type=text
+
+
+
+Version 1.1:
+C = set( x for x in tokens if character(x) = T )
+
+<DOCUMENT>              :   <SECTION> | <LINE> | <VOICE> | <FOC>
+<SECTION>               :   source=(author|narrator|characters), 
+                            target=(reader|naratee|characters),
+                            id=int,
+                            level=int,
+                            text=text
+<LINE>                  :   source=character in C, 
+                            target=character in C, 
+                            id=int,
+                            level=int,
+                            text=text
+<VOICE>                 :   type=(homo|hetero)
+<FOC>                   :   type=(0|1|2)

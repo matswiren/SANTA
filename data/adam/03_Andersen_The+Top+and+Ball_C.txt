@@ -46,7 +46,7 @@ THE TOP AND BALL
 </NARRATOR>
 
 <CHARACTERS>
-    "Ah," she exclaimed, "here is a gilt top." So the top was brought again to notice and honor, but nothing more was heard of the little ball. He spoke not a word about his old love; for that soon died away. When the beloved object has lain for five years in a gutter, and has been drenched through, no one cares to know her again on meeting her in a dust-bin. <Ball--Top><ANA--EXP><Oklar addressat>
+    "Ah," she exclaimed, "here is a gilt top." So the top was brought again to notice and honor, but nothing more was heard of the little ball. He spoke not a word about his old love; for that soon died away. When the beloved object has lain for five years in a gutter, and has been drenched through, no one cares to know her again on meeting her in a dust-bin. <Ball--Top><ANA--EXP><Oklar_addressat>
 </CHARACTERS>
 </PLOT_ELEMENT>
 
