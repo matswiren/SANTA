@@ -2,7 +2,7 @@ Anton Chekhov
 
 An Avenger
 
-<VOICE_1>
+<VOICE_0>
 <FOC_0>
 <NARRATOR>
 SHORTLY after finding his wife in flagrante delicto Fyodor Fyodorovitch Sigaev was standing in Schmuck and Co.'s, the gunsmiths, selecting a suitable revolver.

@@ -80,13 +80,11 @@ He had jumped into the dust-bin, where all sorts of rubbish were lying: cabbage-
 <CHARACTERS>
 "Now I am in a nice place," said he; "my gilding will soon be washed off here.
 Oh dear, what a set of rabble I have got amongst!" <Top--Top>
-</CHARACTERS>
 <NARRATOR>
 And then he glanced at a curious round thing like an old apple, which lay near a long, leafless cabbage-stalk.
 It was, however, not an apple, but an old ball, which had lain for years in the gutter, and was soaked through with water.
 </NARRATOR>
 
-<CHARACTERS>
 "Thank goodness, here comes one of my own class, with whom I can talk," said the ball, examining the gilded top. <Ball--Top>
 "I am made of morocco," she said. <Ball--Top>
 "I was sewn together by a young lady, and I have a Spanish cork in my body; but no one would think it, to look at me now.
