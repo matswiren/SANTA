@@ -82,3 +82,22 @@ They searched everywhere, even in the cellar, but he was nowhere to be found.
 He had jumped into the dust-bin, where all sorts of rubbish were lying: cabbage-stalks, dust, and rain-droppings that had fallen down from the gutter under the roof.<<< (FOC_0???)
 </NARRATOR>
 </FOC_1>
+
+----------------------------------------------------------------
+10_Grimm
+Embeddings
+
+<NARRATOR>
+The two elder brothers, being of the opinion that the youngest was so foolish that he was of no account whatever in trying to obtain the throne, for they did not think he would find anything at all, had said to each other:
+</NARRATOR>
+
+<CHARACTERS>
+"It is not necessary for us to trouble much in looking for the carpet!" <Brothers--Brothers>
+<NARRATOR>
+so they took from the shoulders of the first peasant they came across a coarse shawl, and this they carried to their father.
+</NARRATOR>
+</CHARACTERS>
+
+<NARRATOR>
+At the same time Dummling appeared with his beautiful carpet, which he presented to the King, who was very much surprised, and said—
+</NARRATOR>

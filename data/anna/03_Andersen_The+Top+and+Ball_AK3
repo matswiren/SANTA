@@ -2,8 +2,6 @@ Hans Christian Andersen
 
 THE TOP AND BALL
 
-<VOICE_0>
-<FOC_0>
 <SCENE>
 <NARRATOR>
 A whipping top and a little ball lay together in a box, among other toys,
@@ -112,8 +110,6 @@ He spoke not a word about his old love; for that soon died away.
 When the beloved object has lain for five years in a gutter, and has been drenched through, no one cares to know her again on meeting her in a dust-bin.
 </NARRATOR>
 </SCENE>
-</VOICE_0>
-</FOC_0>
-
+<VOICE_0><FOC_0>
 http://www.gutenberg.org/files/27200/27200-h/27200-h.htm#top_ball
 
