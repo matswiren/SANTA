@@ -1,0 +1,84 @@
+----------------------------------------------------------------
+09_Dickens: FOC_1, verkar som huvudpersonen kommer ihåg Fanny, och inte någon narrator.
+
+<NARRATOR>
+Still, one day, in the midst of all these pleasures, the traveller lost the boy as he had lost the child, and, 
+<CHARACTER>
+after calling to him in vain, 
+</CHARACTER>
+went on upon his journey.
+So he went on for a little while without seeing anything, until at last he came to a young man.
+<CHARACTER>
+So, he said to the young man, "What do you do here?"
+And the young man said, "I am always in love.
+Come and love with me."
+</CHARACTER>
+</NARRATOR>
+
+<NARRATOR>
+So, he went away with that young man, 
+<FOC_1>
+and presently they came to one of the prettiest girls that ever was seen-- just like Fanny in the corner there--and she had eyes like Fanny, and hair like Fanny, and dimples like Fanny's, and she laughed and coloured just as Fanny does while I am talking about her.
+So, the young man fell in love directly--just as Somebody I won't mention, the first time he came here, did with Fanny.
+Well!
+he was teased sometimes--just as Somebody used to be by Fanny; and they quarrelled sometimes--just as Somebody and Fanny used to quarrel; and they made it up, and sat in the dark, and wrote letters every day, and never were happy asunder, and were always looking out for one another and pretending not to, and were engaged at Christmas-time, and sat close to one another by the fire, and were going to be married very soon--all exactly like Somebody I won't mention, and Fanny!
+</FOC_1>
+
+----------------------------------------------------------------
+10_Grimm
+Focalization
+
+<NARRATOR>
+So that there could be no disagreement as to the way each one should go, the King conducted them to the courtyard of the Palace, and there blew three feathers, by turn, into the air, telling his sons to follow the course that the three feathers took.
+</NARRATOR>
+
+<NARRATOR>
+Then one of the feathers flew eastwards, another westwards, but the third went straight up towards the sky, though it only sped a short distance before falling to earth.
+</NARRATOR>
+
+<NARRATOR>
+Therefore one son travelled towards the east, and the second went to the west, both making fun of poor Dummling, who was obliged to stay where his feather had fallen.
+</FOC_1>
+<FOC_2>
+Then Dummling, sitting down and feeling rather miserable after his brothers had gone, looked about him, and noticed that near to where his feather lay was a trap-door.
+On lifting this up he perceived a flight of steps, down which he went.
+At the bottom was another door, so he knocked upon it, and then heard a voice calling—
+</NARRATOR>
+
+
+----------------------------------------------------------------
+03_Andersen: FOC_0-2
+
+<NARRATOR>
+Next day the ball was taken out by the boy.
+The top saw it flying high in the air, like a bird, till it would go quite out of sight.
+Each time it came back, as it touched the earth, it gave a higher leap than before, either because it longed to fly upwards, or from having a Spanish cork in its body.
+But the ninth time it rose in the air, it remained away, and did not return.
+The boy searched everywhere for it, but he searched in vain, for it could not be found; it was gone.
+</NARRATOR>
+
+<CHARACTERS>
+"I know very well where she is," sighed the top; "she is in the swallow's nest, and has married the swallow."
+</CHARACTERS>
+</FOC_0>
+
+<FOC_2>
+<NARRATOR>
+The more the top thought of this, the more he longed for the ball.
+His love increased the more, just because he could not get her; and that she should have been won by another, was the worst of all.
+The top still twirled about and hummed, but he continued to think of the ball; and the more he thought of her, the more beautiful she seemed to his fancy.
+</NARRATOR>
+</SCENE>
+</FOC_2>
+
+<FOC_1>
+<SCENE>
+<NARRATOR>
+Thus several years passed by, and his love became quite old.
+The top, also, was no longer young; but there came a day when he looked handsomer than ever; for he was gilded all over.
+He was now a golden top, and whirled and danced about till he hummed quite loud, and was something worth looking at; but one day he leaped too high, and then he, also, was gone.
+They searched everywhere, even in the cellar, but he was nowhere to be found.
+>>>Where could he be?
+He had jumped into the dust-bin, where all sorts of rubbish were lying: cabbage-stalks, dust, and rain-droppings that had fallen down from the gutter under the roof.<<< (FOC_0???)
+</NARRATOR>
+</FOC_1>

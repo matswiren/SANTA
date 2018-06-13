@@ -3,11 +3,13 @@ from operator import attrgetter
 from scipy.stats.stats import pearsonr, spearmanr 
 from os import listdir
 
-sections = ['NARRATOR', 'CHARACTERS', 'AUTHOR', 'PLOT_ELEMENT']
+sections = ['NARRATOR', 'CHARACTERS', 'AUTHOR', 'SCENE']
 curr_tags = {'NARRATOR':0, 
              'CHARACTERS':0, 
              'AUTHOR':0, 
              'PLOT_ELEMENT':0}
+
+include = ['NARRATOR', 'CHARACTERS']
 
 Tag = namedtuple('Tag', 'type start end')
 
@@ -22,12 +24,12 @@ def main(annotator_1, annotator_2, k):
     #        return 1
 
     a1, a2 = [], []
-    for i, u in enumerate(sorted(filter(lambda x: x.type != 'PLOT_ELEMENT', a1_units), 
+    for i, u in enumerate(sorted(filter(lambda x: x.type in include, a1_units), 
                        key=attrgetter('start'))):
        a1.append(u.end-u.start)
        print(f'u{i+k},Adam,{u.type},,{u.start},{u.end}')
     
-    for j, u in enumerate(sorted(filter(lambda x: x.type != 'PLOT_ELEMENT', a2_units), 
+    for j, u in enumerate(sorted(filter(lambda x: x.type in include, a2_units), 
                         key=attrgetter('start'))):
         a2.append(u.end-u.start)
         print(f'u{i+j+1+k},Anna,{u.type},,{u.start},{u.end}')
@@ -91,11 +93,11 @@ if __name__ == '__main__':
     foldername1 = '/home/adam/git/SANTA/data/adam/'
     foldername2 = '/home/adam/git/SANTA/data/anna/'
 
-    #k = main(foldername1+'02_Andersen_The+Elf+of+the+Rose_C.txt', 
-    #         foldername2+'02_Andersen_The+Elf+of+the+Rose_AK_ADDS2', 0)
+    k = main(foldername1+'03_Andersen_The+Top+and+Ball_ver2.txt', 
+             foldername2+'03_Andersen_The+Top+and+Ball_AK3', 0)
     
-    k, m = 0, 0
-    for f1, f2 in zip(sorted(listdir(foldername1)), sorted(listdir(foldername2))):   
-        print(f1)
-        k += main(foldername1+f1, foldername2+f2, k)
+    #k, m = 0, 0
+    #for f1, f2 in zip(sorted(listdir(foldername1)), sorted(listdir(foldername2))):   
+    #    print(f1)
+    #    k += main(foldername1+f1, foldername2+f2, k)
     

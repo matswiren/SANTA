@@ -16,6 +16,7 @@ def main():
                     o.write(f'{sentence.lstrip()}\n')
                 o.write('\n') 
         print(f, 'complete')
+    return 1
 
 if __name__ == '__main__':
     r = main()
