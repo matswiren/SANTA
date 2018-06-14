@@ -38,11 +38,13 @@ From the world above is he,
 We'll help him from our store." <Toad--Dummling>
 </CHARACTERS>
 </FOC_2>
+
 <FOC_1>
 <NARRATOR>
 And then the door was flung open, and the young man found himself facing a big toad sitting in the centre of a number of young toads.
 The big toad addressed him, asking him what he wanted.
 </NARRATOR>
+
 <NARRATOR>
 Dummling, though rather surprised when he saw the toads, and heard them question him, being good-hearted replied politely—
 </NARRATOR>
@@ -101,13 +103,13 @@ Make some other condition, we beg of you!" <Brothers--King>
 
 <CHARACTERS>
 "Well," agreed the father, "the one who brings me the most magnificent ring shall succeed to my throne," <King--FLERA>
-</CHARACTERS>
 <NARRATOR>
 and once more he took his sons outside the Palace.
 Then, again, he blew three feathers into the air to show the direction each one should go; whereupon the two elder sons went east and west, but Dummling's flew straight up, and fell close by the trap-door.
 Then the youngest son descended the steps as before, and upon seeing the large toad he talked with her, and told her what he desired.
 So the big box was brought, and out of it the toad handed him a ring which was of so exquisite a workmanship that no goldsmith's could equal it.
 </NARRATOR>
+</CHARACTERS>
 
 <NARRATOR>
 Meanwhile the two elder brothers made fun of the idea of Dummling searching for a ring, and they decided to take no needless trouble themselves.
@@ -159,10 +161,10 @@ In the same way, as the twice before, they had taken no trouble about the matter
 
 <NARRATOR>
 After glancing at the three, 
-</NARRATOR>
 <CHARACTERS>
 the King said: "Without doubt, at my death the kingdom will be Dummling's." <King--FLERA>
 </CHARACTERS>
+</NARRATOR>
 
 <NARRATOR>
 Once more the brothers loudly expressed their discontent, and gave the King no peace, declaring—

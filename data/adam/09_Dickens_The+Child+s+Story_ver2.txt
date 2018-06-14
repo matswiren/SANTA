@@ -195,7 +195,9 @@ Come and remember with me!" <Old_Man--Man>
 So the traveller sat down by the side of that old man, face to face with the serene sunset; and all his friends came softly back and stood around him.
 The beautiful child, the handsome boy, the young man in love, the father, mother, and children: every one of them was there, and he had lost nothing.
 So, he loved them all, and was kind and forbearing with them all, and was always pleased to watch them all, and they all honoured and loved him.
+</NARRATOR>
 
+<NARRATOR>
 And I think the traveller must be yourself, dear Grandfather, because this what you do to us, and what we do to you.
 </NARRATOR>
 </FOC_0>

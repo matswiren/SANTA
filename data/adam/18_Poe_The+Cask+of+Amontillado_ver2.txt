@@ -43,52 +43,86 @@ I was so pleased to see him, that I thought I should never have done wringing hi
 I said to him—"My dear Fortunato, you are luckily met.
 How remarkably well you are looking to-day!
 But I have received a pipe of what passes for Amontillado, and I have my doubts." <Montresor--Fortunato>
+</CHARACTERS>
 
+<CHARACTERS>
 "How?"
 said he. <Fortunato Montresor>
 "Amontillado?
 A pipe!
 Impossible!
 And in the middle of the carnival!" <Fortunato--Montresor>
+</CHARACTERS>
 
+<CHARACTERS>
 "I have my doubts," I replied; "and I was silly enough to pay the full Amontillado price without consulting you in the matter.
 You were not to be found, and I was fearful of losing a bargain." <Montresor--Fortunato>
+</CHARACTERS>
 
+<CHARACTERS>
 "Amontillado!" <Fortunato--Montresor>
+</CHARACTERS>
 
+<CHARACTERS>
 "I have my doubts." <Montresor--Fortunato>
+</CHARACTERS>
 
+<CHARACTERS>
 "Amontillado!" <Fortunato--Montresor>
+</CHARACTERS>
 
+<CHARACTERS>
 "And I must satisfy them." <Montresor--Fortunato>
+</CHARACTERS>
 
+<CHARACTERS>
 "Amontillado!" <Fortunato--Montresor>
+</CHARACTERS>
 
+<CHARACTERS>
 "As you are engaged, I am on my way to Luchesi.
 If any one has a critical turn, it is he.
 He will tell me—" <Montresor--Forunato>
+</CHARACTERS>
 
+<CHARACTERS>
 "Luchesi cannot tell Amontillado from Sherry." <Fortunato--Montresor>
+</CHARACTERS>
 
+<CHARACTERS>
 "And yet some fools will have it that his taste is a match for your own." <Montresor--Fortunato>
+</CHARACTERS>
 
+<CHARACTERS>
 "Come, let us go." <Fortunato--Montresor>
+</CHARACTERS>
 
+<CHARACTERS>
 "Whither?" <Montresor--Fortunato>
+</CHARACTERS>
 
+<CHARACTERS>
 "To your vaults." <Fortunato--Montresor>
+</CHARACTERS>
 
+<CHARACTERS>
 "My friend, no; I will not impose upon your good nature.
 I perceive you have an engagement.
 Luchesi—" <Montresor--Fortunato>
+</CHARACTERS>
 
+<CHARACTERS>
 "I have no engagement;—come." <Fortunato--Montresor>
+</CHARACTERS>
 
+<CHARACTERS>
 "My friend, no.
 It is not the engagement, but the severe cold with which I perceive you are afflicted.
 The vaults are insufferably damp.
 They are encrusted with nitre." <Montresor--Fortunato>
+</CHARACTERS>
 
+<CHARACTERS>
 "Let us go, nevertheless.
 The cold is merely nothing.
 Amontillado!
@@ -119,7 +153,9 @@ The gait of my friend was unsteady, and the bells upon his cap jingled as he str
 
 <CHARACTERS>
 "The pipe," said he. <Fortunato--Montresor>
+</CHARACTERS>
 
+<CHARACTERS>
 "It is farther on," said I; "but observe the white web-work which gleams from these cavern walls." <Montresor--Fortunato>
 </CHARACTERS>
 
@@ -130,10 +166,14 @@ He turned towards me, and looked into my eyes with two filmy orbs that distilled
 <CHARACTERS>
 "Nitre?"
 he asked, at length. <Fortunato--Montresor>
+</CHARACTERS>
 
+<CHARACTERS>
 "Nitre," I replied.
 "How long have you had that cough?" <Montresor--Fortunato>
+</CHARACTERS>
 
+<CHARACTERS>
 "Ugh! ugh! ugh!—ugh! ugh! ugh!—ugh! ugh! ugh!—ugh! ugh! ugh!—ugh! ugh! ugh!" <Fortunato--???>
 </CHARACTERS>
 
@@ -143,7 +183,9 @@ My poor friend found it impossible to reply for many minutes.
 
 <CHARACTERS>
 "It is nothing," he said, at last. <Fortunato--Montresor>
+</CHARACTERS>
 
+<CHARACTERS>
 "Come," I said, 
 <NARRATOR>
 with decision, 
@@ -154,10 +196,14 @@ You are a man to be missed.
 For me it is no matter.
 We will go back; you will be ill, and I cannot be responsible.
 Besides, there is Luchesi—" <Montresor--Fortunato>
+</CHARACTERS>
 
+<CHARACTERS>
 "Enough," he said; "the cough is a mere nothing; it will not kill me.
 I shall not die of a cough." <Fortunato--Montresor>
+</CHARACTERS>
 
+<CHARACTERS>
 "True—true," I replied; "and, indeed, I had no intention of alarming you unnecessarily—but you should use all proper caution.
 A draught of this Medoc will defend us from the damps." <Montresor--Fortunato>
 </CHARACTERS>
@@ -177,7 +223,9 @@ He paused and nodded to me familiarly, while his bells jingled.
 
 <CHARACTERS>
 "I drink," he said, "to the buried that repose around us." <Fortunato--Montresor>
+</CHARACTERS>
 
+<CHARACTERS>
 "And I to your long life." <Montresor--Fortunato>
 </CHARACTERS>
 
@@ -187,17 +235,29 @@ He again took my arm, and we proceeded.
 
 <CHARACTERS>
 "These vaults," he said, "are extensive." <Fortunato--Montresor>
+</CHARACTERS>
 
+<CHARACTERS>
 "The Montresors," I replied, "were a great and numerous family." <Montresor--Fortunato>
+</CHARACTERS>
 
+<CHARACTERS>
 "I forget your arms." <Fortunato--Montresor>
+</CHARACTERS>
 
+<CHARACTERS>
 "A huge human foot d'or, in a field azure; the foot crushes a serpent rampant whose fangs are imbedded in the heel." <Montresor--Fortunato>
+</CHARACTERS>
 
+<CHARACTERS>
 "And the motto?" <Fortunato--Montresor>
+</CHARACTERS>
 
+<CHARACTERS>
 "Nemo me impune lacessit." <Montresor--Fortunato>
+</CHARACTERS>
 
+<CHARACTERS>
 "Good!"
 he said. <Fortunato--Montresor>
 </CHARACTERS>
@@ -217,7 +277,9 @@ We are below the river's bed.
 The drops of moisture trickle among the bones.
 Come, we will go back ere it is too late.
 Your cough—" <Montresor--Fortunato>
+</CHARACTERS>
 
+<CHARACTERS>
 "It is nothing," he said; "let us go on.
 But first, another draught of the Medoc." <Fortunato--Montresor>
 </CHARACTERS>
@@ -237,36 +299,58 @@ He repeated the movement—a grotesque one.
 <CHARACTERS>
 "You do not comprehend?"
 he said. <Montresor--Fortunato>
+</CHARACTERS>
 
+<CHARACTERS>
 "Not I," I replied. <Montresor--Fortunato>
+</CHARACTERS>
 
+<CHARACTERS>
 "Then you are not of the brotherhood." <Fortunato--Montresor>
+</CHARACTERS>
 
+<CHARACTERS>
 "How?" <Montresor--Fortunato>
+</CHARACTERS>
 
+<CHARACTERS>
 "You are not of the masons." <Fortunato--Montresor>
+</CHARACTERS>
 
+<CHARACTERS>
 "Yes, yes," I said, "yes, yes." <Montresor--Fortunato>
+</CHARACTERS>
 
+<CHARACTERS>
 "You?
 Impossible!
 A mason?" <Fortunato--Montresor>
+</CHARACTERS>
 
+<CHARACTERS>
 "A mason," I replied. <Montresor--Fortunato>
+</CHARACTERS>
 
+<CHARACTERS>
 "A sign," he said. <Fortunato--Montresor>
+</CHARACTERS>
 
+<CHARACTERS>
 "It is this," I answered, <Montresor--Fortunato>
 <NARRATOR>
 producing a trowel from beneath the folds of my roquelaire. 
 </NARRATOR>
+</CHARACTERS>
 
+<CHARACTERS>
 "You jest," he exclaimed, 
 <NARRATOR>
 recoiling a few paces.
 </NARRATOR>
 "But let us proceed to the Amontillado." <Fortunato--Montresor>
+</CHARACTERS>
 
+<CHARACTERS>
 "Be it so," I said, <Montresor--Fortunato>
 <NARRATOR>
 replacing the tool beneath the cloak, and again offering him my arm.
@@ -293,7 +377,9 @@ Its termination the feeble light did not enable us to see.
 <CHARACTERS>
 "Proceed," I said; "herein is the Amontillado.
 As for Luchesi—" <Montresor--Forunato>
+</CHARACTERS>
 
+<CHARACTERS>
 "He is an ignoramus," interrupted my friend, <Fortunato--Montresor>
 <NARRATOR>
 as he stepped unsteadily forward, while I followed immediately at his heels.
@@ -305,20 +391,26 @@ Throwing the links about his waist, it was but the work of a few seconds to sec
 He was too much astounded to resist.
 Withdrawing the key I stepped back from the recess.
 </NARRATOR>
+</CHARACTERS>
 
+<CHARACTERS>
 "Pass your hand," I said, "over the wall; you cannot help feeling the nitre.
 Indeed it is very damp. 
 Once more let me implore you to return.
 No?
 Then I must positively leave you.
 But I must first render you all the little attentions in my power." <Montresor--Fortunato>
+</CHARACTERS>
 
+<CHARACTERS>
 "The Amontillado!"
 ejaculated my friend, <Fortunato--Montresor>
 <NARRATOR>
 not yet recovered from his astonishment.
 </NARRATOR>
+</CHARACTERS>
 
+<CHARACTERS>
 "True," I replied; "the Amontillado." <Montresor--Fortunato>
 </CHARACTERS>
 
@@ -364,19 +456,29 @@ The voice said—
 <CHARACTERS>
 "Ha! ha! ha!—he! he!—a very good joke indeed—an excellent jest.
 We will have many a rich laugh about it at the palazzo—he! he! he!—over our wine he! he! he!" <Fortunato--Montresor>
+</CHARACTERS>
 
+<CHARACTERS>
 "The Amontillado!"
 I said. <Montresor--Fortunato>
+</CHARACTERS>
 
+<CHARACTERS>
 "He! he! he!—he! he! he!—yes, the Amontillado.
 But is it not getting late?
 Will not they be awaiting us at the palazzo, the Lady Fortunato and the rest?
 Let us be gone." <Fortunato--Montresor>
+</CHARACTERS>
 
+<CHARACTERS>
 "Yes,"I said, "let us be gone." <Montresor--Fortunato>
+</CHARACTERS>
 
+<CHARACTERS>
 "For the love of God, Montresor!" <Fortunato--Montresor>
+</CHARACTERS>
 
+<CHARACTERS>
 "Yes," I said, "for the love of God!" <Montresor--Fortunato>
 </CHARACTERS>
 

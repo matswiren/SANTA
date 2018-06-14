@@ -20,7 +20,9 @@ First, I will kill her and her lover and then myself." <Fyodor--Fyodor>
 <NARRATOR>
 He had not yet chosen a revolver or killed anyone, but already in imagination he saw three bloodstained corpses, broken skulls, brains oozing from them, the commotion, the crowd of gaping spectators, the post-mortem....
 With the malignant joy of an insulted man he pictured the horror of the relations and the public, the agony of the traitress, and was mentally reading leading articles on the destruction of the traditions of the home.
+</NARRATOR>
 
+<NARRATOR>
 The shopman, a sprightly little Frenchified figure with rounded belly and white waistcoat, displayed the revolvers, and smiling respectfully and scraping with his little feet observed:
 </NARRATOR>
 
@@ -41,15 +43,18 @@ Looking at his ecstatic countenance, one might have supposed that he would readi
 <CHARACTERS>
 "And what price?"
 asked Sigaev. <Fyodor--Shopman>
+</CHARACTERS>
 
-
+<CHARACTERS>
 "Forty-five roubles, M'sieu." <Shopman--Fyodor>
+</CHARACTERS>
 
-
+<CHARACTERS>
 "Mm!...
 that's too dear for me." <Fyodor--Shopman>
+</CHARACTERS>
 
-
+<CHARACTERS>
 "In that case, M'sieu, let me offer you another make, somewhat cheaper.
 Here, if you'll kindly look, we have an immense choice, at all prices....
 Here, for instance, this revolver of the Lefaucher pattern costs only eighteen roubles, but ..."
@@ -58,16 +63,18 @@ but, M'sieu, it's an old-fashioned make.
 They are only bought by hysterical ladies or the mentally deficient.
 To commit suicide or shoot one's wife with a Lefaucher revolver is considered bad form nowadays.
 Smith-Wesson is the only pattern that's correct style." <Shopman--Fyodor>
+</CHARACTERS>
 
-
+<CHARACTERS>
 "I don't want to shoot myself or to kill anyone," said Sigaev, <Fyodor--Shopman> 
 <NARRATOR>
 lying sullenly.
 </NARRATOR>
 "I am buying it simply for a country cottage ...
 to frighten away burglars...." <Fyodor--Shopman> 
+</CHARACTERS>
 
-
+<CHARACTERS>
 "That's not our business, what object you have in buying it." <Shopman--Fyodor>
 <NARRATOR>
 The shopman smiled, dropping his eyes discreetly.
@@ -75,8 +82,9 @@ The shopman smiled, dropping his eyes discreetly.
 "If we were to investigate the object in each case, M'sieu, we should have to close our shop.
 To frighten burglars Lefaucher is not a suitable pattern, M'sieu, for it goes off with a faint, muffled sound.
 I would suggest Mortimer's, the so-called duelling pistol...." <Shopman--Fyodor>
+</CHARACTERS>
 
-
+<CHARACTERS>
 "Shouldn't I challenge him to a duel?" 
 flashed through Sigaev's mind.
 "It's doing him too much honour, though....
@@ -87,10 +95,7 @@ Beasts like that are killed like dogs...." <Fyodor--Fyodor>
 The shopman, swaying gracefully and tripping to and fro on his little feet, still smiling and chattering, displayed before him a heap of revolvers.
 The most inviting and impressive of all was the Smith and Wesson's.
 Sigaev picked up a pistol of that pattern, gazed blankly at it, and sank into brooding.
-His imagination pictured how he would blow out their brains, how blood would flow in streams over the rug and the parquet, how the traitress's legs would twitch in her last agony.
-.
-.
-.
+His imagination pictured how he would blow out their brains, how blood would flow in streams over the rug and the parquet, how the traitress's legs would twitch in her last agony....
 But that was not enough for his indignant soul.
 The picture of blood, wailing, and horror did not satisfy him.
 He must think of something more terrible.
@@ -200,8 +205,9 @@ And so I will leave her alive, I won't kill myself, him ...
 I won't kill either.
 I must think of something more sensible and more effective.
 I will punish them with my contempt, and will take divorce proceedings that will make a scandal." <Fyodor--Fyodor>
+</CHARACTERS>
 
-
+\tikzstyle{bar4} = [rectangle, minimum width=1cm, minimum height=1cm, fill=red!30]<CHARACTERS>
 "Here, M'sieu, is another make," said the shopman, <Shopman--Fyodor>
 <NARRATOR>
 taking down another dozen from the shelf.
@@ -229,20 +235,23 @@ He looked round the walls of the shop to pick out something inexpensive, and his
 "That's ...
 what's that?"
 he asked. <Fyodor--Shopman>
-
-
-"That's a net for catching quails." <Shopman--Fyodor>
-
-
-"And what price is it?" <Fyodor--Shopman>
-
-
-"Eight roubles, M'sieu." <Shopman--Fyodor>
-
-
-"Wrap it up for me...." <Fyodor--Shopman>
 </CHARACTERS>
 
+<CHARACTERS>
+"That's a net for catching quails." <Shopman--Fyodor>
+</CHARACTERS>
+
+<CHARACTERS>
+"And what price is it?" <Fyodor--Shopman>
+</CHARACTERS>
+
+<CHARACTERS>
+"Eight roubles, M'sieu." <Shopman--Fyodor>
+</CHARACTERS>
+
+<CHARACTERS>
+"Wrap it up for me...." <Fyodor--Shopman>
+</CHARACTERS>
 
 <NARRATOR>
 The outraged husband paid his eight roubles, took the net, and, feeling even more outraged, walked out of the shop.

@@ -20,25 +20,37 @@ The next day came the little boy to whom the playthings belonged, and he painted
 Shall we be engaged to each other?
 We should suit so well; you spring, and I dance.
 No one could be happier than we should be." <Top--Ball>
+</CHARACTERS>
 
+<CHARACTERS>
 "Indeed!
 do you think so?
 Perhaps you do not know that my father and mother were morocco slippers, and that I have a Spanish cork in my body." <Ball--Top>
+</CHARACTERS>
 
+<CHARACTERS>
 "Yes; but I am made of mahogany," said the top. <Top--Ball>
 "The major himself turned me.
 He has a turning lathe of his own, and it is a great amusement to him." <Top--Ball>
+</CHARACTERS>
 
+<CHARACTERS>
 "Can I believe it?"
 asked the ball. <Ball--Top>
+</CHARACTERS>
 
+<CHARACTERS>
 "May I never be whipped again," said the top, "if I am not telling you the truth." <Top--Ball>
+</CHARACTERS>
 
+<CHARACTERS>
 "You certainly know how to speak for yourself very well," said the ball; "but I cannot accept your proposal.
 I am almost engaged to a swallow.
 Every time I fly up in the air, he puts his head out of the nest, and says, 'Will you?'
 and I have said, 'Yes,' to myself silently, and that is as good as being half engaged; but I will promise never to forget you." <Ball--Top>
+</CHARACTERS>
 
+<CHARACTERS>
 "Much good that will be to me," said the top; and they spoke to each other no more. <Top--Ball>
 </CHARACTERS>
 
@@ -84,7 +96,9 @@ Oh dear, what a set of rabble I have got amongst!" <Top--Top>
 And then he glanced at a curious round thing like an old apple, which lay near a long, leafless cabbage-stalk.
 It was, however, not an apple, but an old ball, which had lain for years in the gutter, and was soaked through with water.
 </NARRATOR>
+</CHARACTERS>
 
+<CHARACTERS>
 "Thank goodness, here comes one of my own class, with whom I can talk," said the ball, examining the gilded top. <Ball--Top>
 "I am made of morocco," she said. <Ball--Top>
 "I was sewn together by a young lady, and I have a Spanish cork in my body; but no one would think it, to look at me now.
@@ -94,21 +108,23 @@ Believe me, it is a long time for a young maiden." <Ball--Top>
 
 <NARRATOR>
 The top said nothing, but he thought of his old love; and the more she said, the more clear it became to him that this was the same ball.
+</NARRATOR>
 </FOC_2>
 
 <FOC_0>
+<NARRATOR>
 The servant then came to clean out the dust-bin.
 </NARRATOR>
 
 <CHARACTERS>
 "Ah," she exclaimed, 
 "here is a gilt top." <Servant--Servant>
-</CHARACTERS>
 <NARRATOR>
 So the top was brought again to notice and honor, but nothing more was heard of the little ball.
 He spoke not a word about his old love; for that soon died away.
 When the beloved object has lain for five years in a gutter, and has been drenched through, no one cares to know her again on meeting her in a dust-bin.
 </NARRATOR>
+</CHARACTERS>
 </SCENE>
 </FOC_0>
 </VOICE_0>
