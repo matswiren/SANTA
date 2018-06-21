@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>fable_all</title>
+                <author>empty</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>empty</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>empty</p>
+                <ab>
+                    <fs xml:id="CATMA_TECH_DESC">
+                        <f name="version">
+                            <string>5</string>
+                        </f>
+                    </fs>
+                </ab>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <fsdDecl xml:id="CATMA_142A4E14-ABB6-4852-8536-45083B09CA54" n="narrative_levels 2018-06-20T19:06:13.000+0200">
+                <fsDecl xml:id="CATMA_7550861B-4499-48AF-89E6-9A545C1A70DA" n="2018-06-20T14:08:43.000+0200" type="CATMA_7550861B-4499-48AF-89E6-9A545C1A70DA">
+                    <fsDescr>voice</fsDescr>
+                    <fDecl xml:id="CATMA_680F584E-BB8E-4F53-992A-2818334E587F" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-7296007</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A2422536-54FF-4F26-A8F9-9BCD1D82E16F" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>evelyn.gius@uni-hamburg.de</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_F7783E54-8575-4B75-908F-0C00AE46CFE9" n="2018-06-20T14:09:45.000+0200" type="CATMA_F7783E54-8575-4B75-908F-0C00AE46CFE9" baseTypes="CATMA_BCD3AFDC-C825-4F20-9D7B-2C644A4B3530">
+                    <fsDescr>FOC_INT</fsDescr>
+                    <fDecl xml:id="CATMA_7A8E4B6B-FED6-45C3-AB0B-E948AFA1AB8F" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-3989510</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_3593BD88-1189-4D29-A4CE-7BE89DD2A55F" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>evelyn.gius@uni-hamburg.de</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_BCD3AFDC-C825-4F20-9D7B-2C644A4B3530" n="2018-06-20T14:09:19.000+0200" type="CATMA_BCD3AFDC-C825-4F20-9D7B-2C644A4B3530">
+                    <fsDescr>foc</fsDescr>
+                    <fDecl xml:id="CATMA_8543F101-08CE-409E-8AC5-2ADC282B982E" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>evelyn.gius@uni-hamburg.de</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_4A88C976-1E08-47DD-A4BD-CBAB35B09C9F" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-12816378</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_7126A497-B7E0-4D88-9456-A48353EB4E00" n="2018-06-20T14:11:06.000+0200" type="CATMA_7126A497-B7E0-4D88-9456-A48353EB4E00">
+                    <fsDescr>narrative_transmission</fsDescr>
+                    <fDecl xml:id="CATMA_76F70538-D420-44FF-9A6F-40BFD2EBF4BB" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>evelyn.gius@uni-hamburg.de</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_9CAC2C57-DD1B-4005-BDFC-8CCDE37EC3DC" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-8999590</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_9E6F7521-1CB3-471D-9228-136739E86125" n="2018-06-20T14:09:28.000+0200" type="CATMA_9E6F7521-1CB3-471D-9228-136739E86125" baseTypes="CATMA_BCD3AFDC-C825-4F20-9D7B-2C644A4B3530">
+                    <fsDescr>FOC_UNR</fsDescr>
+                    <fDecl xml:id="CATMA_B37ADE92-0689-42E1-95A5-9AD0D4140B97" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>evelyn.gius@uni-hamburg.de</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_4D48011A-F733-4C07-A59A-B21025250722" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-11416296</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_0887D043-1572-4295-AD74-6B9DF4B9ED0C" n="2018-06-20T14:12:31.000+0200" type="CATMA_0887D043-1572-4295-AD74-6B9DF4B9ED0C" baseTypes="CATMA_7126A497-B7E0-4D88-9456-A48353EB4E00">
+                    <fsDescr>CHARACTERS</fsDescr>
+                    <fDecl xml:id="CATMA_11213E20-A715-4860-8E43-DBA3793EC0C2" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-16538848</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_D63C0B01-A433-4FD5-9749-17136BBAA227" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>evelyn.gius@uni-hamburg.de</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_36A3B24D-5243-4CD6-B39F-6B4B4DAEC2ED" n="2018-06-21T13:14:05.000+0200" type="CATMA_36A3B24D-5243-4CD6-B39F-6B4B4DAEC2ED">
+                    <fsDescr>SPEAKER--ADDRESSEE</fsDescr>
+                    <fDecl xml:id="CATMA_2E3C9445-25CD-4882-B455-736259AD006B" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>evelyn.gius@uni-hamburg.de</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_D01374DF-87CC-4A58-A471-A81191847050" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-8117889</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_3F68848C-C453-44C2-B1D8-62EBC388661B" name="Addressee">
+                        <vRange>
+                            <vColl>
+                                <string>Lenz</string>
+                                <string>Oberlin</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AC2ED9AA-F851-47BE-8D19-115CA2002DEB" name="Speaker">
+                        <vRange>
+                            <vColl>
+                                <string>Lenz</string>
+                                <string>Oberlin</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_FD71E176-A412-43CA-8170-15B7334A93EF" n="2018-06-20T14:10:20.000+0200" type="CATMA_FD71E176-A412-43CA-8170-15B7334A93EF" baseTypes="CATMA_BCD3AFDC-C825-4F20-9D7B-2C644A4B3530">
+                    <fsDescr>FOC_EXT</fsDescr>
+                    <fDecl xml:id="CATMA_F7F46BE2-28B7-4101-A3E1-8EDB9DC2B51D" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-15943180</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A36A12E6-2280-4319-B873-11E6371AFE60" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>evelyn.gius@uni-hamburg.de</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_5CE00265-2F4D-464C-B598-7BB4D27D0923" n="2018-06-20T14:09:09.000+0200" type="CATMA_5CE00265-2F4D-464C-B598-7BB4D27D0923" baseTypes="CATMA_7550861B-4499-48AF-89E6-9A545C1A70DA">
+                    <fsDescr>VOICE_3</fsDescr>
+                    <fDecl xml:id="CATMA_576D7688-6FB0-4DB7-A199-19158FC09C02" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>evelyn.gius@uni-hamburg.de</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_3F9B3BD5-6441-479D-8A6A-1C570729F62C" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-15924634</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_9B86B265-2038-40D0-8041-62EDB1B1700E" n="2018-06-20T14:08:58.000+0200" type="CATMA_9B86B265-2038-40D0-8041-62EDB1B1700E" baseTypes="CATMA_7550861B-4499-48AF-89E6-9A545C1A70DA">
+                    <fsDescr>VOICE_1</fsDescr>
+                    <fDecl xml:id="CATMA_B5EF9096-FAB6-4D10-BB4B-BB1F8C70BD3B" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-10446683</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_C81AEB8D-46AB-4580-98E7-50CD4B6CC467" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>evelyn.gius@uni-hamburg.de</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_0AB9D0A1-4550-4644-9F4F-7072E20F4105" n="2018-06-20T14:11:36.000+0200" type="CATMA_0AB9D0A1-4550-4644-9F4F-7072E20F4105" baseTypes="CATMA_7126A497-B7E0-4D88-9456-A48353EB4E00">
+                    <fsDescr>AUTHOR</fsDescr>
+                    <fDecl xml:id="CATMA_A9A3A35F-076F-49EE-AB92-BBDCCF207534" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-6742716</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_8E8EE8E9-0EFA-4282-83B1-692C2E4E2D50" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>evelyn.gius@uni-hamburg.de</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_B09EA947-9006-47BC-9DFA-4A2ECE2A0D5F" n="2018-06-20T14:10:38.000+0200" type="CATMA_B09EA947-9006-47BC-9DFA-4A2ECE2A0D5F">
+                    <fsDescr>SCENE</fsDescr>
+                    <fDecl xml:id="CATMA_149D857F-FA42-4822-B53C-3500325EEFB6" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-6209117</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_20543A49-B0F4-4983-85B7-5A333470F90F" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>evelyn.gius@uni-hamburg.de</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_38E9AF51-38B2-494F-BC5E-58A0A8D45C39" n="2018-06-20T14:13:19.000+0200" type="CATMA_38E9AF51-38B2-494F-BC5E-58A0A8D45C39">
+                    <fsDescr>TURN</fsDescr>
+                    <fDecl xml:id="CATMA_A350D191-5839-45DB-BA81-A9F11AD6DD30" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>evelyn.gius@uni-hamburg.de</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_764383FA-E43C-4692-867C-5B015C7B7B52" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-15588458</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_ADB30E4E-E257-4EA7-BD0D-5154DDC6112F" n="2018-06-20T14:12:25.000+0200" type="CATMA_ADB30E4E-E257-4EA7-BD0D-5154DDC6112F" baseTypes="CATMA_7126A497-B7E0-4D88-9456-A48353EB4E00">
+                    <fsDescr>NARRATOR</fsDescr>
+                    <fDecl xml:id="CATMA_61921AD0-F7E0-48F6-8616-89C22B0501D6" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-718550</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_5748DE64-DEB6-4415-A45F-01584BC5A185" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>evelyn.gius@uni-hamburg.de</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+            </fsdDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <ab type="catma">
+                <ptr target="catma://CATMA_C8E397B0-F9EF-41C8-BCB0-3CDE1327A658#char=0,56" type="inclusion"/>
+                <seg ana="#CATMA_0D22B2A3-7B96-48B2-A80E-C50AECDC53A1 #CATMA_CC537229-C43C-4A58-BBB6-5DFF4F890A61 #CATMA_BD6917F8-7C67-49BA-9333-E37EDA9031D5 #CATMA_065F7156-887E-4A4B-B330-518D12331BB6 #CATMA_2259F83B-04B4-4DAD-BD94-9BF86D076AF9 #CATMA_D94F9D41-6C0E-4004-85CE-315671277DFD">
+                    <ptr target="catma://CATMA_C8E397B0-F9EF-41C8-BCB0-3CDE1327A658#char=56,160" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_0D22B2A3-7B96-48B2-A80E-C50AECDC53A1 #CATMA_CC537229-C43C-4A58-BBB6-5DFF4F890A61 #CATMA_BD6917F8-7C67-49BA-9333-E37EDA9031D5 #CATMA_065F7156-887E-4A4B-B330-518D12331BB6 #CATMA_2259F83B-04B4-4DAD-BD94-9BF86D076AF9 #CATMA_D94F9D41-6C0E-4004-85CE-315671277DFD">
+                    <ptr target="catma://CATMA_C8E397B0-F9EF-41C8-BCB0-3CDE1327A658#char=160,265" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_0D22B2A3-7B96-48B2-A80E-C50AECDC53A1 #CATMA_CC537229-C43C-4A58-BBB6-5DFF4F890A61 #CATMA_BD6917F8-7C67-49BA-9333-E37EDA9031D5 #CATMA_065F7156-887E-4A4B-B330-518D12331BB6 #CATMA_2259F83B-04B4-4DAD-BD94-9BF86D076AF9 #CATMA_D94F9D41-6C0E-4004-85CE-315671277DFD">
+                    <ptr target="catma://CATMA_C8E397B0-F9EF-41C8-BCB0-3CDE1327A658#char=265,351" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_065F7156-887E-4A4B-B330-518D12331BB6 #CATMA_2259F83B-04B4-4DAD-BD94-9BF86D076AF9 #CATMA_D94F9D41-6C0E-4004-85CE-315671277DFD">
+                    <ptr target="catma://CATMA_C8E397B0-F9EF-41C8-BCB0-3CDE1327A658#char=351,352" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_065F7156-887E-4A4B-B330-518D12331BB6 #CATMA_2259F83B-04B4-4DAD-BD94-9BF86D076AF9">
+                    <ptr target="catma://CATMA_C8E397B0-F9EF-41C8-BCB0-3CDE1327A658#char=352,353" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_0FD3B4D7-06E5-4E28-BF5B-F2C87D0B2B7A #CATMA_8EC68A67-5701-49E0-B646-0777C3F6E2DC #CATMA_2ECAFCA5-1884-457C-A57A-DF6E4B89BD28 #CATMA_065F7156-887E-4A4B-B330-518D12331BB6 #CATMA_2259F83B-04B4-4DAD-BD94-9BF86D076AF9 #CATMA_2C367083-87BF-4D34-9CFD-89B9D26235E8">
+                    <ptr target="catma://CATMA_C8E397B0-F9EF-41C8-BCB0-3CDE1327A658#char=353,410" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_0FD3B4D7-06E5-4E28-BF5B-F2C87D0B2B7A #CATMA_065F7156-887E-4A4B-B330-518D12331BB6 #CATMA_2259F83B-04B4-4DAD-BD94-9BF86D076AF9 #CATMA_2C367083-87BF-4D34-9CFD-89B9D26235E8">
+                    <ptr target="catma://CATMA_C8E397B0-F9EF-41C8-BCB0-3CDE1327A658#char=410,411" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_29E41E2E-180B-4518-923B-C93C9783F236 #CATMA_0FD3B4D7-06E5-4E28-BF5B-F2C87D0B2B7A #CATMA_065F7156-887E-4A4B-B330-518D12331BB6 #CATMA_2259F83B-04B4-4DAD-BD94-9BF86D076AF9 #CATMA_2C367083-87BF-4D34-9CFD-89B9D26235E8">
+                    <ptr target="catma://CATMA_C8E397B0-F9EF-41C8-BCB0-3CDE1327A658#char=411,422" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_2C367083-87BF-4D34-9CFD-89B9D26235E8">
+                    <ptr target="catma://CATMA_C8E397B0-F9EF-41C8-BCB0-3CDE1327A658#char=422,424" type="inclusion"/>
+                </seg>
+                <ptr target="catma://CATMA_C8E397B0-F9EF-41C8-BCB0-3CDE1327A658#char=424,504" type="inclusion"/>
+            </ab>
+        </body>
+        <fs xml:id="CATMA_0D22B2A3-7B96-48B2-A80E-C50AECDC53A1" type="CATMA_0887D043-1572-4295-AD74-6B9DF4B9ED0C">
+            <f name="catma_displaycolor">
+                <string>-16538848</string>
+            </f>
+            <f name="catma_markupauthor">
+                <string>mats.wiren@ling.su.se</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_CC537229-C43C-4A58-BBB6-5DFF4F890A61" type="CATMA_38E9AF51-38B2-494F-BC5E-58A0A8D45C39">
+            <f name="catma_markupauthor">
+                <string>mats.wiren@ling.su.se</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-15588458</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_BD6917F8-7C67-49BA-9333-E37EDA9031D5" type="CATMA_36A3B24D-5243-4CD6-B39F-6B4B4DAEC2ED">
+            <f name="catma_markupauthor">
+                <string>mats.wiren@ling.su.se</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-8117889</string>
+            </f>
+            <f name="Addressee">
+                <string>Mouse</string>
+            </f>
+            <f name="Speaker">
+                <string>Mouse</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_065F7156-887E-4A4B-B330-518D12331BB6" type="CATMA_5CE00265-2F4D-464C-B598-7BB4D27D0923">
+            <f name="catma_markupauthor">
+                <string>mats.wiren@ling.su.se</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-15924634</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_2259F83B-04B4-4DAD-BD94-9BF86D076AF9" type="CATMA_FD71E176-A412-43CA-8170-15B7334A93EF">
+            <f name="catma_displaycolor">
+                <string>-15943180</string>
+            </f>
+            <f name="catma_markupauthor">
+                <string>mats.wiren@ling.su.se</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_D94F9D41-6C0E-4004-85CE-315671277DFD" type="CATMA_B09EA947-9006-47BC-9DFA-4A2ECE2A0D5F">
+            <f name="catma_displaycolor">
+                <string>-6209117</string>
+            </f>
+            <f name="catma_markupauthor">
+                <string>mats.wiren@ling.su.se</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_0FD3B4D7-06E5-4E28-BF5B-F2C87D0B2B7A" type="CATMA_0887D043-1572-4295-AD74-6B9DF4B9ED0C">
+            <f name="catma_displaycolor">
+                <string>-16538848</string>
+            </f>
+            <f name="catma_markupauthor">
+                <string>mats.wiren@ling.su.se</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_8EC68A67-5701-49E0-B646-0777C3F6E2DC" type="CATMA_38E9AF51-38B2-494F-BC5E-58A0A8D45C39">
+            <f name="catma_markupauthor">
+                <string>mats.wiren@ling.su.se</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-15588458</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_2ECAFCA5-1884-457C-A57A-DF6E4B89BD28" type="CATMA_36A3B24D-5243-4CD6-B39F-6B4B4DAEC2ED">
+            <f name="catma_markupauthor">
+                <string>mats.wiren@ling.su.se</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-8117889</string>
+            </f>
+            <f name="Addressee">
+                <string>Mouse</string>
+            </f>
+            <f name="Speaker">
+                <string>Cat</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_2C367083-87BF-4D34-9CFD-89B9D26235E8" type="CATMA_B09EA947-9006-47BC-9DFA-4A2ECE2A0D5F">
+            <f name="catma_displaycolor">
+                <string>-6209117</string>
+            </f>
+            <f name="catma_markupauthor">
+                <string>mats.wiren@ling.su.se</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_29E41E2E-180B-4518-923B-C93C9783F236" type="CATMA_ADB30E4E-E257-4EA7-BD0D-5154DDC6112F">
+            <f name="catma_displaycolor">
+                <string>-718550</string>
+            </f>
+            <f name="catma_markupauthor">
+                <string>mats.wiren@ling.su.se</string>
+            </f>
+        </fs>
+    </text>
+</TEI>
