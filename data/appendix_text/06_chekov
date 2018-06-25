@@ -4,7 +4,6 @@ An Avenger
 
 <VOICE_3>
 <FOC_UNR>
-
 <SCENE>
 <NARRATOR>
 SHORTLY after finding his wife in flagrante delicto Fyodor Fyodorovitch Sigaev was standing in Schmuck and Co.'s, the gunsmiths, selecting a suitable revolver.
@@ -38,7 +37,7 @@ As for suicide, M'sieu, I don't know a better pattern." <Shopman--Fyodor>
 <NARRATOR>
 The shopman pulled and cocked the trigger, breathed on the barrel, took aim, and affected to be breathless with delight.
 Looking at his ecstatic countenance, one might have supposed that he would readily have put a bullet through his brains if he had only possessed a revolver of such a superb pattern as a Smith-Wesson.
-</NARRATOR>
+<NARRATOR>
 
 <CHARACTERS>
 "And what price?"
@@ -231,7 +230,7 @@ or I'll send someone." <Fyodor--Shopman>
 He didn't see the expression of the shopman's face, but to smooth over the awkwardness of the position a little he felt called upon to make some purchase.
 But what should he buy?
 He looked round the walls of the shop to pick out something inexpensive, and his eyes rested on a green net hanging near the door.
-</NARRATOR>
+<NARRATOR>
 
 <CHARACTERS>
 "That's ...

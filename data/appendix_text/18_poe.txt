@@ -1,402 +1,419 @@
 Edgar Allan Poe
 
-
 THE CASK OF AMONTILLADO.
 
 In: 1846 Godey's Lady's Book.
 
 
-<VOICE_1>
-<FOC_2>
-
-<SCENE>
-<NARRATOR>
+\noindent \verb"<VOICE_1>" \\
+\noindent \verb"<FOC_INT>" \\
+\noindent \verb"<SCENE>" \\
+\noindent \verb"<NARRATOR>" \\
 THE thousand injuries of Fortunato I had borne as I best could; but when he ventured upon insult, I vowed revenge.
 You, who so well know the nature of my soul, will not suppose, however, that I gave utterance to a threat.
 At length I would be avenged; this was a point definitively settled—but the very definitiveness with which it was resolved, precluded the idea of risk.
 I must not only punish, but punish with impunity.
 A wrong is unredressed when retribution overtakes its redresser.
 It is equally unredressed when the avenger fails to make himself felt as such to him who has done the wrong.
-</NARRATOR>
+\noindent \verb"</NARRATOR>" \\
 
-<NARRATOR>
+\noindent \verb"<NARRATOR>" \\
 It must be understood, that neither by word nor deed had I given Fortunato cause to doubt my good will.
 I continued, as was my wont, to smile in his face, and he did not perceive that my smile now was at the thought of his immolation.
-</NARRATOR>
+\noindent \verb"</NARRATOR>" \\
 
-<NARRATOR>
+\noindent \verb"<NARRATOR>" \\
 He had a weak point—this Fortunato—although in other regards he was a man to be respected and even feared.
 He prided himself on his connoisseurship in wine.
 Few Italians have the true virtuoso spirit.
 For the most part their enthusiasm is adopted to suit the time and opportunity—to practise imposture upon the British and Austrian millionaires.
 In painting and gemmary Fortunato, like his countrymen, was a quack—but in the matter of old wines he was sincere.
 In this respect I did not differ from him materially: I was skilful in the Italian vintages myself, and bought largely whenever I could.
-</NARRATOR>
-</SCENE>
+\noindent \verb"</NARRATOR>" \\
+\noindent \verb"</SCENE>" \\
 
-<SCENE>
-<NARRATOR>
+\noindent \verb"<SCENE>" \\
+\noindent \verb"<NARRATOR>" \\
 It was about dusk, one evening during the supreme madness of the carnival season, that I encountered my friend.
 He accosted me with excessive warmth, for he had been drinking much.
 The man wore motley.
 He had on a tight-fitting parti-striped dress, and his head was surmounted by the conical cap and bells.
 I was so pleased to see him, that I thought I should never have done wringing his hand.
-</NARRATOR>
+\noindent \verb"</NARRATOR>" \\
 
-<CHARACTERS>
+\noindent \verb"<CHARACTERS>" \\
+\noindent \verb"<TURN>" \\
 I said to him—"My dear Fortunato, you are luckily met.
 How remarkably well you are looking to-day!
-But I have received a pipe of what passes for Amontillado, and I have my doubts." <Montresor--Fortunato>
-</CHARACTERS>
+But I have received a pipe of what passes for Amontillado, and I have my doubts." {\tt <Montresor--Fortunato>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
+\noindent \verb"<TURN>" \\
 "How?"
 said he. <Fortunato Montresor>
 "Amontillado?
 A pipe!
 Impossible!
-And in the middle of the carnival!" <Fortunato--Montresor>
-</CHARACTERS>
+And in the middle of the carnival!" {\tt <Fortunato--Montresor>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
+\noindent \verb"<TURN>" \\
 "I have my doubts," I replied; "and I was silly enough to pay the full Amontillado price without consulting you in the matter.
-You were not to be found, and I was fearful of losing a bargain." <Montresor--Fortunato>
-</CHARACTERS>
+You were not to be found, and I was fearful of losing a bargain." {\tt <Montresor--Fortunato>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
-"Amontillado!" <Fortunato--Montresor>
-</CHARACTERS>
+\noindent \verb"<TURN>" \\
+"Amontillado!" {\tt <Fortunato--Montresor>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
-"I have my doubts." <Montresor--Fortunato>
-</CHARACTERS>
+\noindent \verb"<TURN>" \\
+"I have my doubts." {\tt <Montresor--Fortunato>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
-"Amontillado!" <Fortunato--Montresor>
-</CHARACTERS>
+\noindent \verb"<TURN>" \\
+"Amontillado!" {\tt <Fortunato--Montresor>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
-"And I must satisfy them." <Montresor--Fortunato>
-</CHARACTERS>
+\noindent \verb"<TURN>" \\
+"And I must satisfy them." {\tt <Montresor--Fortunato>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
-"Amontillado!" <Fortunato--Montresor>
-</CHARACTERS>
+\noindent \verb"<TURN>" \\
+"Amontillado!" {\tt <Fortunato--Montresor>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
+\noindent \verb"<TURN>" \\
 "As you are engaged, I am on my way to Luchesi.
 If any one has a critical turn, it is he.
 He will tell me—" <Montresor--Forunato>
-</CHARACTERS>
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
-"Luchesi cannot tell Amontillado from Sherry." <Fortunato--Montresor>
-</CHARACTERS>
+\noindent \verb"<TURN>" \\
+"Luchesi cannot tell Amontillado from Sherry." {\tt <Fortunato--Montresor>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
-"And yet some fools will have it that his taste is a match for your own." <Montresor--Fortunato>
-</CHARACTERS>
+\noindent \verb"<TURN>" \\
+"And yet some fools will have it that his taste is a match for your own." {\tt <Montresor--Fortunato>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
-"Come, let us go." <Fortunato--Montresor>
-</CHARACTERS>
+\noindent \verb"<TURN>" \\
+"Come, let us go." {\tt <Fortunato--Montresor>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
-"Whither?" <Montresor--Fortunato>
-</CHARACTERS>
+\noindent \verb"<TURN>" \\
+"Whither?" {\tt <Montresor--Fortunato>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
-"To your vaults." <Fortunato--Montresor>
-</CHARACTERS>
+\noindent \verb"<TURN>" \\
+"To your vaults." {\tt <Fortunato--Montresor>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
+\noindent \verb"<TURN>" \\
 "My friend, no; I will not impose upon your good nature.
 I perceive you have an engagement.
-Luchesi—" <Montresor--Fortunato>
-</CHARACTERS>
+Luchesi—" {\tt <Montresor--Fortunato>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
-"I have no engagement;—come." <Fortunato--Montresor>
-</CHARACTERS>
+\noindent \verb"<TURN>" \\
+"I have no engagement;—come." {\tt <Fortunato--Montresor>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
+\noindent \verb"<TURN>" \\
 "My friend, no.
 It is not the engagement, but the severe cold with which I perceive you are afflicted.
 The vaults are insufferably damp.
-They are encrusted with nitre." <Montresor--Fortunato>
-</CHARACTERS>
+They are encrusted with nitre." {\tt <Montresor--Fortunato>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
+\noindent \verb"<TURN>" \\
 "Let us go, nevertheless.
 The cold is merely nothing.
 Amontillado!
 You have been imposed upon.
-And as for Luchesi, he cannot distinguish Sherry from Amontillado." <Fortunato--Montresor>
-</CHARACTERS>
+And as for Luchesi, he cannot distinguish Sherry from Amontillado." {\tt <Fortunato--Montresor>}
+\noindent \verb"</TURN>" \\
+\noindent \verb"</CHARACTERS>" \\
 
-<NARRATOR>
+\noindent \verb"<NARRATOR>" \\
 Thus speaking, Fortunato possessed himself of my arm.
 Putting on a mask of black silk, and drawing a roquelaire closely about my person, I suffered him to hurry me to my palazzo.
-</NARRATOR>
+\noindent \verb"</NARRATOR>" \\
 
-<NARRATOR>
+\noindent \verb"<NARRATOR>" \\
 There were no attendants at home; they had absconded to make merry in honor of the time.
 I had told them that I should not return until the morning, and had given them explicit orders not to stir from the house.
 These orders were sufficient, I well knew, to insure their immediate disappearance, one and all, as soon as my back was turned.
-</NARRATOR>
-</SCENE>
+\noindent \verb"</NARRATOR>" \\
+\noindent \verb"</SCENE>" \\
 
-<SCENE>
-<NARRATOR>
+\noindent \verb"<SCENE>" \\
+\noindent \verb"<NARRATOR>" \\
 I took from their sconces two flambeaux, and giving one to Fortunato, bowed him through several suites of rooms to the archway that led into the vaults.
 I passed down a long and winding staircase, requesting him to be cautious as he followed.
 We came at length to the foot of the descent, and stood together on the damp ground of the catacombs of the Montresors.
-</NARRATOR>
+\noindent \verb"</NARRATOR>" \\
 
-<NARRATOR>
+\noindent \verb"<NARRATOR>" \\
 The gait of my friend was unsteady, and the bells upon his cap jingled as he strode.
-</NARRATOR>
+\noindent \verb"</NARRATOR>" \\
 
-<CHARACTERS>
-"The pipe," said he. <Fortunato--Montresor>
-</CHARACTERS>
+\noindent \verb"<CHARACTERS>" \\
+\noindent \verb"<TURN>" \\
+"The pipe," said he. {\tt <Fortunato--Montresor>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
-"It is farther on," said I; "but observe the white web-work which gleams from these cavern walls." <Montresor--Fortunato>
-</CHARACTERS>
+\noindent \verb"<TURN>" \\
+"It is farther on," said I; "but observe the white web-work which gleams from these cavern walls." {\tt <Montresor--Fortunato>}
+\noindent \verb"</TURN>" \\
+\noindent \verb"</CHARACTERS>" \\
 
-<NARRATOR>
+\noindent \verb"<NARRATOR>" \\
 He turned towards me, and looked into my eyes with two filmy orbs that distilled the rheum of intoxication.
-</NARRATOR>
+\noindent \verb"</NARRATOR>" \\
 
-<CHARACTERS>
+\noindent \verb"<CHARACTERS>" \\
+\noindent \verb"<TURN>" \\
 "Nitre?"
 he asked, 
-<NARRATOR>
-at length. <Fortunato--Montresor>
-</NARRATOR>
-</CHARACTERS>
+\noindent \verb"<NARRATOR>" \\
+at length. {\tt <Fortunato--Montresor>}
+\noindent \verb"</NARRATOR>" \\
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
+\noindent \verb"<TURN>" \\
 "Nitre," I replied.
-"How long have you had that cough?" <Montresor--Fortunato>
-</CHARACTERS>
+"How long have you had that cough?" {\tt <Montresor--Fortunato>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
+\noindent \verb"<TURN>" \\
 "Ugh! ugh! ugh!—ugh! ugh! ugh!—ugh! ugh! ugh!—ugh! ugh! ugh!—ugh! ugh! ugh!" <Fortunato--???>
-</CHARACTERS>
+\noindent \verb"</TURN>" \\
+\noindent \verb"</CHARACTERS>" \\
 
-<NARRATOR>
+\noindent \verb"<NARRATOR>" \\
 My poor friend found it impossible to reply for many minutes.
-</NARRATOR>
+\noindent \verb"</NARRATOR>" \\
 
-<CHARACTERS>
+\noindent \verb"<CHARACTERS>" \\
+\noindent \verb"<TURN>" \\
 "It is nothing," he said, 
-<NARRATOR>
-at last. <Fortunato--Montresor>
-</NARRATOR>
-</CHARACTERS>
+\noindent \verb"<NARRATOR>" \\
+at last. {\tt <Fortunato--Montresor>}
+\noindent \verb"</NARRATOR>" \\
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
+\noindent \verb"<TURN>" \\
 "Come," I said, 
-<NARRATOR>
+\noindent \verb"<NARRATOR>" \\
 with decision, 
-</NARRATOR>
+\noindent \verb"</NARRATOR>" \\
 "we will go back; your health is precious.
 You are rich, respected, admired, beloved; you are happy, as once I was.
 You are a man to be missed.
 For me it is no matter.
 We will go back; you will be ill, and I cannot be responsible.
-Besides, there is Luchesi—" <Montresor--Fortunato>
-</CHARACTERS>
+Besides, there is Luchesi—" {\tt <Montresor--Fortunato>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
+\noindent \verb"<TURN>" \\
 "Enough," he said; "the cough is a mere nothing; it will not kill me.
-I shall not die of a cough." <Fortunato--Montresor>
-</CHARACTERS>
+I shall not die of a cough." {\tt <Fortunato--Montresor>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
+\noindent \verb"<TURN>" \\
 "True—true," I replied; "and, indeed, I had no intention of alarming you unnecessarily—but you should use all proper caution.
-A draught of this Medoc will defend us from the damps." <Montresor--Fortunato>
-</CHARACTERS>
+A draught of this Medoc will defend us from the damps." {\tt <Montresor--Fortunato>}
+\noindent \verb"</TURN>" \\
+\noindent \verb"</CHARACTERS>" \\
 
-<NARRATOR>
+\noindent \verb"<NARRATOR>" \\
 Here I knocked off the neck of a bottle which I drew from a long row of its fellows that lay upon the mould.
-</NARRATOR>
+\noindent \verb"</NARRATOR>" \\
 
-<CHARACTERS>
+\noindent \verb"<CHARACTERS>" \\
+\noindent \verb"<TURN>" \\
 "Drink," I said, 
-<NARRATOR>
-presenting him the wine. <Montresor--Fortunato>
-</NARRATOR>
-</CHARACTERS>
+\noindent \verb"<NARRATOR>" \\
+presenting him the wine. {\tt <Montresor--Fortunato>}
+\noindent \verb"</NARRATOR>" \\
+\noindent \verb"</TURN>" \\
+\noindent \verb"</CHARACTERS>" \\
 
-<NARRATOR>
+\noindent \verb"<NARRATOR>" \\
 He raised it to his lips with a leer.
 He paused and nodded to me familiarly, while his bells jingled.
-</NARRATOR>
+\noindent \verb"</NARRATOR>" \\
 
-<CHARACTERS>
-"I drink," he said, "to the buried that repose around us." <Fortunato--Montresor>
-</CHARACTERS>
+\noindent \verb"<CHARACTERS>" \\
+\noindent \verb"<TURN>" \\
+"I drink," he said, "to the buried that repose around us." {\tt <Fortunato--Montresor>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
-"And I to your long life." <Montresor--Fortunato>
-</CHARACTERS>
+\noindent \verb"<TURN>" \\
+"And I to your long life." {\tt <Montresor--Fortunato>}
+\noindent \verb"</TURN>" \\
+\noindent \verb"</CHARACTERS>" \\
 
-<NARRATOR>
+\noindent \verb"<NARRATOR>" \\
 He again took my arm, and we proceeded.
-</NARRATOR>
+\noindent \verb"</NARRATOR>" \\
 
-<CHARACTERS>
-"These vaults," he said, "are extensive." <Fortunato--Montresor>
-</CHARACTERS>
+\noindent \verb"<CHARACTERS>" \\
+\noindent \verb"<TURN>" \\
+"These vaults," he said, "are extensive." {\tt <Fortunato--Montresor>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
-"The Montresors," I replied, "were a great and numerous family." <Montresor--Fortunato>
-</CHARACTERS>
+\noindent \verb"<TURN>" \\
+"The Montresors," I replied, "were a great and numerous family." {\tt <Montresor--Fortunato>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
-"I forget your arms." <Fortunato--Montresor>
-</CHARACTERS>
+\noindent \verb"<TURN>" \\
+"I forget your arms." {\tt <Fortunato--Montresor>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
-"A huge human foot d'or, in a field azure; the foot crushes a serpent rampant whose fangs are imbedded in the heel." <Montresor--Fortunato>
-</CHARACTERS>
+\noindent \verb"<TURN>" \\
+"A huge human foot d'or, in a field azure; the foot crushes a serpent rampant whose fangs are imbedded in the heel." {\tt <Montresor--Fortunato>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
-"And the motto?" <Fortunato--Montresor>
-</CHARACTERS>
+\noindent \verb"<TURN>" \\
+"And the motto?" {\tt <Fortunato--Montresor>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
-"Nemo me impune lacessit." <Montresor--Fortunato>
-</CHARACTERS>
+\noindent \verb"<TURN>" \\
+"Nemo me impune lacessit." {\tt <Montresor--Fortunato>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
+\noindent \verb"<TURN>" \\
 "Good!"
-he said. <Fortunato--Montresor>
-</CHARACTERS>
+he said. {\tt <Fortunato--Montresor>}
+\noindent \verb"</TURN>" \\
+\noindent \verb"</CHARACTERS>" \\
 
-<NARRATOR>
+\noindent \verb"<NARRATOR>" \\
 The wine sparkled in his eyes and the bells jingled.
 My own fancy grew warm with the Medoc.
 We had passed through walls of piled bones, with casks and puncheons intermingling, into the inmost recesses of the catacombs.
 I paused again, and this time I made bold to seize Fortunato by an arm above the elbow.
-</NARRATOR>
+\noindent \verb"</NARRATOR>" \\
 
-<CHARACTERS>
+\noindent \verb"<CHARACTERS>" \\
+\noindent \verb"<TURN>" \\
 "The nitre!"
 I said; "see, it increases.
 It hangs like moss upon the vaults.
 We are below the river's bed.
 The drops of moisture trickle among the bones.
 Come, we will go back ere it is too late.
-Your cough—" <Montresor--Fortunato>
-</CHARACTERS>
+Your cough—" {\tt <Montresor--Fortunato>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
+\noindent \verb"<TURN>" \\
 "It is nothing," he said; "let us go on.
-But first, another draught of the Medoc." <Fortunato--Montresor>
-</CHARACTERS>
+But first, another draught of the Medoc." {\tt <Fortunato--Montresor>}
+\noindent \verb"</TURN>" \\
+\noindent \verb"</CHARACTERS>" \\
 
-<NARRATOR>
+\noindent \verb"<NARRATOR>" \\
 I broke and reached him a flaçon of De Grâve.
 He emptied it at a breath.
 His eyes flashed with a fierce light.
 He laughed and threw the bottle upwards with a gesticulation I did not understand.
-</NARRATOR>
+\noindent \verb"</NARRATOR>" \\
 
-<NARRATOR>
+\noindent \verb"<NARRATOR>" \\
 I looked at him in surprise.
 He repeated the movement—a grotesque one.
-</NARRATOR>
+\noindent \verb"</NARRATOR>" \\
 
-<CHARACTERS>
+\noindent \verb"<CHARACTERS>" \\
+\noindent \verb"<TURN>" \\
 "You do not comprehend?"
-he said. <Montresor--Fortunato>
-</CHARACTERS>
+he said. {\tt <Montresor--Fortunato>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
-"Not I," I replied. <Montresor--Fortunato>
-</CHARACTERS>
+\noindent \verb"<TURN>" \\
+"Not I," I replied. {\tt <Montresor--Fortunato>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
-"Then you are not of the brotherhood." <Fortunato--Montresor>
-</CHARACTERS>
+\noindent \verb"<TURN>" \\
+"Then you are not of the brotherhood." {\tt <Fortunato--Montresor>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
-"How?" <Montresor--Fortunato>
-</CHARACTERS>
+\noindent \verb"<TURN>" \\
+"How?" {\tt <Montresor--Fortunato>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
-"You are not of the masons." <Fortunato--Montresor>
-</CHARACTERS>
+\noindent \verb"<TURN>" \\
+"You are not of the masons." {\tt <Fortunato--Montresor>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
-"Yes, yes," I said, "yes, yes." <Montresor--Fortunato>
-</CHARACTERS>
+\noindent \verb"<TURN>" \\
+"Yes, yes," I said, "yes, yes." {\tt <Montresor--Fortunato>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
+\noindent \verb"<TURN>" \\
 "You?
 Impossible!
-A mason?" <Fortunato--Montresor>
-</CHARACTERS>
+A mason?" {\tt <Fortunato--Montresor>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
-"A mason," I replied. <Montresor--Fortunato>
-</CHARACTERS>
+\noindent \verb"<TURN>" \\
+"A mason," I replied. {\tt <Montresor--Fortunato>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
-"A sign," he said. <Fortunato--Montresor>
-</CHARACTERS>
+\noindent \verb"<TURN>" \\
+"A sign," he said. {\tt <Fortunato--Montresor>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
-"It is this," I answered, <Montresor--Fortunato>
-<NARRATOR>
+\noindent \verb"<TURN>" \\
+"It is this," I answered, {\tt <Montresor--Fortunato>}
+\noindent \verb"<NARRATOR>" \\
 producing a trowel from beneath the folds of my roquelaire. 
-</NARRATOR>
-</CHARACTERS>
+\noindent \verb"</NARRATOR>" \\
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
+\noindent \verb"<TURN>" \\
 "You jest," he exclaimed, 
-<NARRATOR>
+\noindent \verb"<NARRATOR>" \\
 recoiling a few paces.
-</NARRATOR>
-"But let us proceed to the Amontillado." <Fortunato--Montresor>
-</CHARACTERS>
+\noindent \verb"</NARRATOR>" \\
+"But let us proceed to the Amontillado." {\tt <Fortunato--Montresor>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
-"Be it so," I said, <Montresor--Fortunato>
-<NARRATOR>
+\noindent \verb"<TURN>" \\
+"Be it so," I said, {\tt <Montresor--Fortunato>}
+\noindent \verb"<NARRATOR>" \\
 replacing the tool beneath the cloak, and again offering him my arm.
 He leaned upon it heavily.
 We continued our route in search of the Amontillado.
 We passed through a range of low arches, descended, passed on, and descending again, arrived at a deep crypt, in which the foulness of the air caused our flambeaux rather to glow than flame.
-</NARRATOR>
-</CHARACTERS>
+\noindent \verb"</NARRATOR>" \\
+\noindent \verb"</TURN>" \\
+\noindent \verb"</CHARACTERS>" \\
 
-<NARRATOR>
+\noindent \verb"<NARRATOR>" \\
 At the most remote end of the crypt there appeared another less spacious.
 Its walls had been lined with human remains, piled to the vault overhead, in the fashion of the great catacombs of Paris.
 Three sides of this interior crypt were still ornamented in this manner.
 From the fourth side the bones had been thrown down, and lay promiscuously upon the earth, forming at one point a mound of some size.
 Within the wall thus exposed by the displacing of the bones, we perceived a still interior recess, in depth about four feet, in width three, in height six or seven.
 It seemed to have been constructed for no especial use within itself, but formed merely the interval between two of the colossal supports of the roof of the catacombs, and was backed by one of their circumscribing walls of solid granite.
-</NARRATOR>
+\noindent \verb"</NARRATOR>" \\
 
-<NARRATOR>
+\noindent \verb"<NARRATOR>" \\
 It was in vain that Fortunato, uplifting his dull torch, endeavored to pry into the depth of the recess.
 Its termination the feeble light did not enable us to see.
-</NARRATOR>
+\noindent \verb"</NARRATOR>" \\
 
-<CHARACTERS>
+\noindent \verb"<CHARACTERS>" \\
+\noindent \verb"<TURN>" \\
 "Proceed," I said; "herein is the Amontillado.
 As for Luchesi—" <Montresor--Forunato>
-</CHARACTERS>
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
-"He is an ignoramus," interrupted my friend, <Fortunato--Montresor>
-<NARRATOR>
+\noindent \verb"<TURN>" \\
+"He is an ignoramus," interrupted my friend, {\tt <Fortunato--Montresor>}
+\noindent \verb"<NARRATOR>" \\
 as he stepped unsteadily forward, while I followed immediately at his heels.
 In an instant he had reached the extremity of the niche, and finding his progress arrested by the rock, stood stupidly bewildered.
 A moment more and I had fettered him to the granite.
@@ -405,37 +422,38 @@ From one of these depended a short chain, from the other a padlock.
 Throwing the links about his waist, it was but the work of a few seconds to secure it.
 He was too much astounded to resist.
 Withdrawing the key I stepped back from the recess.
-</NARRATOR>
-</CHARACTERS>
+\noindent \verb"</NARRATOR>" \\
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
+\noindent \verb"<TURN>" \\
 "Pass your hand," I said, "over the wall; you cannot help feeling the nitre.
 Indeed it is very damp. 
 Once more let me implore you to return.
 No?
 Then I must positively leave you.
-But I must first render you all the little attentions in my power." <Montresor--Fortunato>
-</CHARACTERS>
+But I must first render you all the little attentions in my power." {\tt <Montresor--Fortunato>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
+\noindent \verb"<TURN>" \\
 "The Amontillado!"
-ejaculated my friend, <Fortunato--Montresor>
-<NARRATOR>
+ejaculated my friend, {\tt <Fortunato--Montresor>}
+\noindent \verb"<NARRATOR>" \\
 not yet recovered from his astonishment.
-</NARRATOR>
-</CHARACTERS>
+\noindent \verb"</NARRATOR>" \\
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
-"True," I replied; "the Amontillado." <Montresor--Fortunato>
-</CHARACTERS>
+\noindent \verb"<TURN>" \\
+"True," I replied; "the Amontillado." {\tt <Montresor--Fortunato>}
+\noindent \verb"</TURN>" \\
+\noindent \verb"</CHARACTERS>" \\
 
-<NARRATOR>
+\noindent \verb"<NARRATOR>" \\
 As I said these words I busied myself among the pile of bones of which I have before spoken.
 Throwing them aside, I soon uncovered a quantity of building stone and mortar.
 With these materials and with the aid of my trowel, I began vigorously to wall up the entrance of the niche.
-</NARRATOR>
+\noindent \verb"</NARRATOR>" \\
 
-<NARRATOR>
+\noindent \verb"<NARRATOR>" \\
 I had scarcely laid the first tier of the masonry when I discovered that the intoxication of Fortunato had in a great measure worn off.
 The earliest indication I had of this was a low moaning cry from the depth of the recess.
 It was not the cry of a drunken man.
@@ -445,9 +463,9 @@ The noise lasted for several minutes, during which, that I might hearken to it w
 When at last the clanking subsided, I resumed the trowel, and finished without interruption the fifth, the sixth, and the seventh tier.
 The wall was now nearly upon a level with my breast.
 I again paused, and holding the flambeaux over the mason-work, threw a few feeble rays upon the figure within.
-</NARRATOR>
+\noindent \verb"</NARRATOR>" \\
 
-<NARRATOR>
+\noindent \verb"<NARRATOR>" \\
 A succession of loud and shrill screams, bursting suddenly from the throat of the chained form, seemed to thrust me violently back.
 For a brief moment I hesitated—I trembled.
 Unsheathing my rapier, I began to grope with it about the recess: but the thought of an instant reassured me.
@@ -456,9 +474,9 @@ I reapproached the wall.
 I replied to the yells of him who clamored.
 I re-echoed—I aided—I surpassed them in volume and in strength.
 I did this, and the clamorer grew still.
-</NARRATOR>
+\noindent \verb"</NARRATOR>" \\
 
-<NARRATOR>
+\noindent \verb"<NARRATOR>" \\
 It was now midnight, and my task was drawing to a close.
 I had completed the eighth, the ninth, and the tenth tier.
 I had finished a portion of the last and the eleventh; there remained but a single stone to be fitted and plastered in.
@@ -466,57 +484,63 @@ I struggled with its weight; I placed it partially in its destined position.
 But now there came from out the niche a low laugh that erected the hairs upon my head.
 It was succeeded by a sad voice, which I had difficulty in recognising as that of the noble Fortunate.
 The voice said—
-</NARRATOR>
+\noindent \verb"</NARRATOR>" \\
 
-<CHARACTERS>
+\noindent \verb"<CHARACTERS>" \\
+\noindent \verb"<TURN>" \\
 "Ha! ha! ha!—he! he!—a very good joke indeed—an excellent jest.
-We will have many a rich laugh about it at the palazzo—he! he! he!—over our wine he! he! he!" <Fortunato--Montresor>
-</CHARACTERS>
+We will have many a rich laugh about it at the palazzo—he! he! he!—over our wine he! he! he!" {\tt <Fortunato--Montresor>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
+\noindent \verb"<TURN>" \\
 "The Amontillado!"
-I said. <Montresor--Fortunato>
-</CHARACTERS>
+I said. {\tt <Montresor--Fortunato>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
+\noindent \verb"<TURN>" \\
 "He! he! he!—he! he! he!—yes, the Amontillado.
 But is it not getting late?
 Will not they be awaiting us at the palazzo, the Lady Fortunato and the rest?
-Let us be gone." <Fortunato--Montresor>
-</CHARACTERS>
+Let us be gone." {\tt <Fortunato--Montresor>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
-"Yes,"I said, "let us be gone." <Montresor--Fortunato>
-</CHARACTERS>
+\noindent \verb"<TURN>" \\
+"Yes,"I said, "let us be gone." {\tt <Montresor--Fortunato>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
-"For the love of God, Montresor!" <Fortunato--Montresor>
-</CHARACTERS>
+\noindent \verb"<TURN>" \\
+"For the love of God, Montresor!" {\tt <Fortunato--Montresor>}
+\noindent \verb"</TURN>" \\
 
-<CHARACTERS>
-"Yes," I said, "for the love of God!" <Montresor--Fortunato>
-</CHARACTERS>
+\noindent \verb"<TURN>" \\
+"Yes," I said, "for the love of God!" {\tt <Montresor--Fortunato>}
+\noindent \verb"</TURN>" \\
+\noindent \verb"</CHARACTERS>" \\
 
-<NARRATOR>
+\noindent \verb"<NARRATOR>" \\
 But to these words I hearkened in vain for a reply.
 I grew impatient.
 I called aloud—
-</NARRATOR>
+\noindent \verb"</NARRATOR>" \\
 
-<CHARACTERS>
-"Fortunato!" <Montresor--Fortunato>
-</CHARACTERS>
+\noindent \verb"<CHARACTERS>" \\
+\noindent \verb"<TURN>" \\
+"Fortunato!" {\tt <Montresor--Fortunato>}
+\noindent \verb"</TURN>" \\
+\noindent \verb"</CHARACTERS>" \\
 
-<NARRATOR>
+\noindent \verb"<NARRATOR>" \\
 No answer.
 I called again—
-</NARRATOR>
+\noindent \verb"</NARRATOR>" \\
 
-<CHARACTERS>
-"Fortunato!" <Montresor--Fortunato>
-</CHARACTERS>
+\noindent \verb"<CHARACTERS>" \\
+\noindent \verb"<TURN>" \\
+"Fortunato!" {\tt {\tt <Montresor--Fortunato>}}
+\noindent \verb"</TURN>" \\
+\noindent \verb"</CHARACTERS>" \\
 
-<NARRATOR>
+\noindent \verb"<NARRATOR>" \\
 No answer still.
 I thrust a torch through the remaining aperture and let it fall within.
 There came forth in return only a jingling of the bells.
@@ -526,8 +550,8 @@ I forced the last stone into its position; I plastered it up.
 Against the new masonry I re-erected the old rampart of bones.
 For the half of a century no mortal has disturbed them.
 In pace requiescat!
-</NARRATOR>
-</SCENE>
+\noindent \verb"</NARRATOR>" \\
+\noindent \verb"</SCENE>" \\
 </FOC_2>
 </VOICE_1>
 
