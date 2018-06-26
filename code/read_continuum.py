@@ -9,7 +9,8 @@ curr_tags = {'NARRATOR':0,
              'AUTHOR':0, 
              'PLOT_ELEMENT':0}
 
-include = ['NARRATOR', 'CHARACTERS']
+include = ['NARRATOR', 'CHARACTERS', 'AUTHOR']
+#include = ['SCENE']
 
 Tag = namedtuple('Tag', 'type start end')
 
@@ -27,12 +28,12 @@ def main(annotator_1, annotator_2, k):
     for i, u in enumerate(sorted(filter(lambda x: x.type in include, a1_units), 
                        key=attrgetter('start'))):
        a1.append(u.end-u.start)
-       print(f'u{i+k},Adam,{u.type},,{u.start},{u.end}')
+       print(f'u{i+k},Adam,{u.type},,{u.start/10},{u.end/10}')
     
     for j, u in enumerate(sorted(filter(lambda x: x.type in include, a2_units), 
                         key=attrgetter('start'))):
         a2.append(u.end-u.start)
-        print(f'u{i+j+1+k},Anna,{u.type},,{u.start},{u.end}')
+        print(f'u{i+j+1+k},Anna,{u.type},,{u.start/10},{u.end/10}')
     print()
 
     return len(a1) + len(a2)
@@ -91,10 +92,10 @@ if __name__ == '__main__':
     
     
     foldername1 = '/home/adam/git/SANTA/data/adam/'
-    foldername2 = '/home/adam/git/SANTA/data/anna/'
+    foldername2 = '/home/adam/data/SANTA_ver4/'
 
     k = main(foldername1+'03_Andersen_The+Top+and+Ball_ver2.txt', 
-             foldername2+'03_Andersen_The+Top+and+Ball_AK3', 0)
+             foldername2+'03_Andersen_The+Top+and+Ball_AK4', 0)
     
     #k, m = 0, 0
     #for f1, f2 in zip(sorted(listdir(foldername1)), sorted(listdir(foldername2))):   
