@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>SANTA_1_lenz</title>
+                <author>empty</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>empty</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>empty</p>
+                <ab>
+                    <fs xml:id="CATMA_TECH_DESC">
+                        <f name="version">
+                            <string>5</string>
+                        </f>
+                    </fs>
+                </ab>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <fsdDecl xml:id="CATMA_698F68CD-5B29-418E-8805-967BB200EA68" n="narrative_levels_1 2018-06-18T14:12:08.000+0200">
+                <fsDecl xml:id="CATMA_F07E1FDB-90E6-4D2E-9A88-DD76BEE5933B" n="2018-06-18T14:11:56.000+0200" type="CATMA_F07E1FDB-90E6-4D2E-9A88-DD76BEE5933B">
+                    <fsDescr>embedded narrative</fsDescr>
+                    <fDecl xml:id="CATMA_4CF45BFC-4116-4082-9303-B726623C2094" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-11630898</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_B6565416-5E23-48B7-89B4-B831CFB930E8" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>evelyn.gius@gmail.com</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_8C24EE51-E0D3-4DF2-90F0-F1AF70D0D9ED" name="ID_number">
+                        <vRange>
+                            <vColl>
+                                <string>1</string>
+                                <string>2</string>
+                                <string>3</string>
+                                <string>4</string>
+                                <string>5</string>
+                                <string>6</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_747D60FC-0BA4-42FB-9966-5383F220B123" n="2018-06-18T14:09:56.000+0200" type="CATMA_747D60FC-0BA4-42FB-9966-5383F220B123">
+                    <fsDescr>narrator</fsDescr>
+                    <fDecl xml:id="CATMA_A0945849-E7CE-489E-9DFE-25D3B6635D51" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-979429</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_8168E988-67E7-41E0-90C1-B94F6A9D3E90" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>evelyn.gius@gmail.com</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_F38B26F0-2EC5-4D35-A29C-B0770342B154" name="name">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_30D6653D-C71A-4E57-B549-15B76CC4DE2B" name="point_of_view">
+                        <vRange>
+                            <vColl>
+                                <string>1st person unnamed</string>
+                                <string>3rd person</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_B37247D7-E35E-42CA-B55F-D7168A9582BA" n="2018-06-18T14:16:14.000+0200" type="CATMA_B37247D7-E35E-42CA-B55F-D7168A9582BA">
+                    <fsDescr>narrative</fsDescr>
+                    <fDecl xml:id="CATMA_5E24136F-6DC9-4A7E-93ED-B024436D4582" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-398073</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_D57B8A17-4DF3-4354-BA98-F0D56629960F" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>evelyn.gius@gmail.com</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_B61F91A0-CE3D-48FF-A00E-267D0975E504" name="narrative_name">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_42442F19-3470-42A7-87FA-DB106D3FB4A8" name="ID_number">
+                        <vRange>
+                            <vColl>
+                                <string>1</string>
+                                <string>2</string>
+                                <string>3</string>
+                                <string>4</string>
+                                <string>5</string>
+                                <string>6</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_970AD875-A3CF-42AD-8B17-246EA0C2625A" n="2018-06-18T14:15:45.000+0200" type="CATMA_970AD875-A3CF-42AD-8B17-246EA0C2625A">
+                    <fsDescr>type of narrative</fsDescr>
+                    <fDecl xml:id="CATMA_75300652-40AD-4A46-ADE8-2A364BFAB2EB" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>evelyn.gius@gmail.com</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_1E005D8F-AB17-4DF0-95B9-D0C237AE26C5" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-16084408</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_BC43AB45-292E-4EC8-AFD3-F8E035C2475E" name="type">
+                        <vRange>
+                            <vColl>
+                                <string>original</string>
+                                <string>embedded</string>
+                                <string>interruptive</string>
+                                <string>embedded flashback</string>
+                                <string>embedded flashforward</string>
+                                <string>embedded dream or vision</string>
+                                <string>interruptive flashback</string>
+                                <string>interruptive flashforward</string>
+                                <string>interruptive dream or vision</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+            </fsdDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <ab type="catma"/>
+        </body>
+    </text>
+</TEI>
